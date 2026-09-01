@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name Here"
-description              : &description "Your Title / Role Here"
-url                      : "https://minimalacademicsite.github.io" 
+name                     : &name "Malte Willmes"
+description              : &description "Researcher"
+url                      : "https://maltewillmes.github.io" 
 baseurl                  : "" 
-repository               : "minimalacademicsite/minimalacademicsite.github.io"
+repository               : "MalteWillmes/maltewillmes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,21 +23,21 @@ repository               : "minimalacademicsite/minimalacademicsite.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "John Doe"
+  name             : "Malte Willmes"
   description      : ""
   pronouns         : ""
-  bio              : "I am a researcher focusing on machine learning and data science."
-  location         : "City, Country"
-  employer         : "Institution Name"
+  bio              : "I am a researcher in ecology, geochemistry, and archaeology"
+  location         : "Trondheim, Norway"
+  employer         : "NINA"
   uri              : 
-  email            : "your.email@example.com" 
+  email            : "malte.willmes@nina.no" 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "your-google-scholar-id"
+  googlescholar    : "https://scholar.google.com/citations?user=UmtrMTUAAAAJ&hl=en"
   impactstory      : 
-  orcid            : "your-orcid-id"
+  orcid            : "https://orcid.org/0000-0001-8734-5324"
   semantic         : 
   pubmed           : 
   researchgate     : 
@@ -47,13 +47,13 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "your-github-username"
+  github           : "maltewillmes"
   kaggle           : 
   stackoverflow    : 
 
   # Social media
   artstation       : 
-  bluesky          : 
+  bluesky          : "rocksandbones.bsky.social"
   facebook         : 
   flickr           : 
   foursquare       : 
@@ -62,7 +62,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "your-linkedin-username"
+  linkedin         :
   mastodon         : 
   medium           : 
   pinterest        : 
