@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIOGRAPHY"
+title: "Malte Willmes"
 author_profile: false
 redirect_from: 
   - /about/
