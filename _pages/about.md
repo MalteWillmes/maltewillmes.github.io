@@ -185,67 +185,25 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  <strong>John Doe</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
+I am a researcher in ecology, geochemistry, and archaeology at the Norwegian Institute for Nature Research and affiliated with the Institute of Marine Science UC Santa Cruz
 </div>
 
 <div class="content-text">
-  Doe’s multidisciplinary foundation includes an M.Sc. in Geospatial Analytics, and a B.Sc. in Environmental Engineering. He is an inductee of the <strong>Global Sustainability Honor Society</strong> and recipient of the <strong>Green Earth Memorial Award</strong>. His research addressing real-world climate challenges is widely published in peer-reviewed venues indexed across <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>.
+At the core of my research is the development and application of geochemical tracers to reconstruct wildlife migrations, life histories, and population connectivity. My current work focuses on otoliths and scales to study Atlantic and Pacific salmonids, Delta and Longfin smelt, and sturgeon. By integrating fieldwork, laboratory analyses, and statistical modeling, I aim to advance wildlife management and conservation.
+</div>
+
+<div class="content-text">
+I collaborate with research groups at UC Santa Cruz (IMS, NOAA), UC Davis (WFCB, CWS, EPS), and ANU (RSES). In addition I work directly with many state and federal agencies to translate our scientific findings into management actions.
 </div>
 
 <div class="collab-box" style="text-align: justify; text-justify: inter-word;">
-  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute to environmental science.
+  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities.
 </div>
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Climate Modeling</span>
-  <span class="pill">Deep Learning</span>
-  <span class="pill">Spatial Analytics</span>
-  <span class="pill">Remote Sensing</span>
-  <span class="pill">Urban Planning</span>
-</div>
-
-<h2 class="section-title">Recent News</h2>
-<div class="news-scroll-container">
-  
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Mar 2026</div>
-    <div class="timeline-content">Accepted a fully-funded Ph.D. offer in Environmental Data Science at the <strong>UES</strong>.</div>
-  </div>
-  
-  <div class="timeline-item">
-    <div class="timeline-date">Jan 2025</div>
-    <div class="timeline-content">Urban canopy mapping paper accepted at <strong>ICCI '25</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">July 2024</div>
-    <div class="timeline-content">Microclimate temperature analysis paper accepted in <strong>Sustainable Cities and Society</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Apr 2024</div>
-    <div class="timeline-content">Urban Heat Island forecasting paper published in the <strong>Journal of Environmental Informatics</strong>.</div>
-  </div>
-
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Aug 2023</div>
-    <div class="timeline-content">Joined the <strong>Department of Urban Development</strong> as a <strong>Climate Data Scientist</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Jul 2023</div>
-    <div class="timeline-content">Book chapter accepted in the <strong>Handbook of Computational Sustainability</strong> (Springer).</div>
-  </div>
-
-  <div class="timeline-item milestone">
-    <div class="timeline-date">Dec 2022</div>
-    <div class="timeline-content">Graduated with an <strong>M.Sc. in Geospatial Analytics</strong> (CGPA: 4.0).</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Aug 2021</div>
-    <div class="timeline-content">Joined the <strong>Institute of Earth Sciences</strong> as a <strong>Graduate Research Assistant</strong>.</div>
-  </div>
-
+  <span class="pill">Fish ecology</span>
+  <span class="pill">Otoliths, Scales, Finrays</span>
+  <span class="pill">Isotopes</span>
+  <span class="pill">Deep learning</span>
 </div>
