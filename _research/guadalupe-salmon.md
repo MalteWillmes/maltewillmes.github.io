@@ -3,7 +3,7 @@ title: "Salmon at their range edge"
 order: 1
 period: "2024–present"
 status: "Ongoing"
-image: /images/research/guadalupe-salmon.jpg
+image: /images/research/guadalupe-salmon.png
 image_alt: "Guadalupe River in San Jose, California"
 summary: "Understanding the origins, reproduction, and potential establishment of Chinook Salmon at the southern edge of their current range."
 tags:
@@ -13,7 +13,7 @@ tags:
   - Population establishment
 links:
   - label: "Project website"
-    url: "https://example.com"
+    url: "https://sbcleancreeks.com/"
 ---
 
 Chinook Salmon are regularly observed spawning in the Guadalupe River,
