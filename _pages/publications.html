@@ -6,652 +6,653 @@ author_profile: false
 ---
 
 <style>
-  /* =========================================
-     1. STATIC LIGHT THEME VARIABLES (Locked)
-     ========================================= */
-  :root {
-    --port-primary: #2c3e50;    /* Dark Academic Blue */
-    --port-text: #3b3b3b;       /* Dark Gray for readability */
-    --port-muted: #64748b;      /* Muted gray for subtitles */
-    --port-bg: #fdfdfd;         /* Almost white for cards */
-    --port-border: #eaeaea;     /* Light gray borders */
-  }
 
-  /* =========================================
-     2. GLOBAL HEADER FIXES (Matches Portfolio)
-     ========================================= */
-  .masthead, 
-  .masthead__inner-wrap, 
-  .masthead__menu, 
-  .masthead__menu ul, 
-  .greedy-nav {
-    background-color: #ffffff !important;
-    background: #ffffff !important;
-  }
-  
-  .masthead {
-    border-bottom: 1px solid var(--port-border) !important;
-  }
+:root {
+  --port-primary: #2c3e50;
+  --port-text: #3b3b3b;
+  --port-muted: #64748b;
+  --port-bg: #fdfdfd;
+  --port-border: #eaeaea;
+}
 
-  .masthead a, 
-  .masthead__menu-item,
-  .masthead__menu-item a,
-  .greedy-nav a, 
-  .greedy-nav .visible-links,
-  .greedy-nav .visible-links li,
-  .greedy-nav .visible-links a {
-    background-color: transparent !important;
-    background: transparent !important;
-    color: var(--port-text) !important;
-  }
 
-  .masthead a:hover,
-  .greedy-nav a:hover,
-  .greedy-nav .visible-links a:hover,
-  .greedy-nav .visible-links li.masthead__menu-item--current a,
-  .greedy-nav .visible-links li.masthead__menu-item--current a:hover {
-    background-color: transparent !important;
-    background: transparent !important;
-    color: var(--port-primary) !important;
-  }
+/* ============================
+   PUBLICATION YEARS
+   ============================ */
 
-  h1.page__title, .page__title {
-    color: var(--port-primary) !important;
-    font-weight: 700 !important;
-  }
+.pub-section-title {
+  margin-top: 28px;
+  margin-bottom: 12px;
 
-  /* Collaboration Alert */
-  .collab-box {
-    background-color: var(--accent-color);
-    border-left: 4px solid var(--port-primary);
-    padding: 14px 18px;
-    font-size: 0.95em;
-    color: var(--port-primary);
-    font-weight: 500;
-    margin: 30px 0;
-    border-radius: 0 4px 4px 0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
-    line-height: 1.6;
-  }
+  border-bottom:
+    1px solid var(--port-border);
 
-  /* =========================================
-     3. PUBLICATIONS LAYOUT STYLES
-     ========================================= */
+  padding-bottom: 5px;
+
+  text-transform: uppercase;
+
+  color:
+    var(--port-primary);
+
+  font-size:
+    1.05em !important;
+
+  font-weight: 700;
+
+  letter-spacing:
+    0.08em;
+}
+
+
+/* ============================
+   PUBLICATION LIST
+   ============================ */
+
+.pub-list {
+  line-height: 1.4;
+
+  margin-top: 0;
+  margin-bottom: 22px;
+
+  padding-left: 27px;
+
+  font-size: 0.92em;
+
+  color:
+    var(--port-text);
+}
+
+
+.pub-list li {
+  margin-bottom: 17px;
+  padding-left: 3px;
+}
+
+
+/* ============================
+   TITLE
+   ============================ */
+
+.paper-title {
+  display: block;
+
+  margin:
+    0 0 2px 0;
+
+  color:
+    var(--port-primary);
+
+  font-size: 1em;
+
+  font-weight: 700;
+
+  line-height: 1.3;
+}
+
+
+/* ============================
+   AUTHORS
+   ============================ */
+
+.authors-list {
+  margin-bottom: 5px;
+
+  color:
+    var(--port-muted);
+
+  font-size: 0.86em;
+
+  line-height: 1.35;
+}
+
+
+/* ============================
+   BUTTON ROW
+   ============================ */
+
+.paper-meta {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  align-items: center;
+
+  gap: 5px;
+
+  margin-top: 3px;
+}
+
+
+.meta-btn,
+.impact-badge {
+
+  display: inline-block;
+
+  padding:
+    2px 7px;
+
+  border-radius: 3px;
+
+  font-family: inherit;
+
+  font-size: 0.68em;
+
+  font-weight: 600;
+
+  line-height: 1.3;
+
+  letter-spacing:
+    0.02em;
+
+  transition:
+    all 0.15s ease;
+}
+
+
+.meta-btn {
+  cursor: pointer;
+}
+
+
+.venue-btn {
+  background-color:
+    var(--port-primary);
+
+  color: #ffffff;
+
+  border:
+    1px solid
+    var(--port-primary);
+}
+
+
+.venue-btn:hover {
+  opacity: 0.82;
+}
+
+
+.impact-badge {
+  background-color:
+    var(--port-bg);
+
+  color:
+    var(--port-primary);
+
+  border:
+    1px solid
+    var(--port-border);
+
+  cursor: default;
+}
+
+
+.abstract-btn {
+  background-color:
+    var(--port-bg);
+
+  color:
+    var(--port-muted);
+
+  border:
+    1px solid
+    var(--port-border);
+}
+
+
+.abstract-btn:hover {
+  background-color:
+    var(--port-primary);
+
+  color: #ffffff;
+
+  border-color:
+    var(--port-primary);
+}
+
+
+.doi-btn {
+  background-color:
+    #f0f7ff;
+
+  color:
+    #3172b4;
+
+  border:
+    1px solid
+    #d0e3f7;
+
+  text-decoration: none !important;
+}
+
+
+.doi-btn:hover {
+  background-color:
+    #e2effc;
+
+  color:
+    #245d91;
+}
+
+
+/* ============================
+   EXPANDABLE INFO
+   ============================ */
+
+.info-box {
+
+  display: none;
+
+  margin-top: 8px;
+
+  padding:
+    9px 12px;
+
+  background:
+    var(--port-bg);
+
+  border-left:
+    3px solid
+    var(--port-primary);
+
+  border-top:
+    1px solid
+    var(--port-border);
+
+  border-right:
+    1px solid
+    var(--port-border);
+
+  border-bottom:
+    1px solid
+    var(--port-border);
+
+  border-radius:
+    0 3px 3px 0;
+
+  color:
+    var(--port-text);
+
+  font-size:
+    0.85em;
+
+  line-height: 1.55;
+}
+
+
+.info-box p {
+  margin: 0;
+
+  line-height: 1.55;
+}
+
+
+/* ============================
+   SMALL INFO LINE
+   ============================ */
+
+.publication-info {
+  margin-bottom: 22px;
+
+  color:
+    var(--port-muted);
+
+  font-size: 0.78em;
+}
+
+
+/* ============================
+   MOBILE
+   ============================ */
+
+@media (max-width: 768px) {
+
   .pub-section-title {
-    margin-top: 45px; 
-    border-bottom: 1px solid var(--port-border); 
-    padding-bottom: 8px; 
-    text-transform: uppercase; 
-    color: var(--port-primary); 
-    font-size: 1.15em !important; 
-    font-weight: 700;
-    letter-spacing: 0.1em;
+    margin-top: 24px;
   }
 
-  .pub-list { 
-    line-height: 1.6; 
-    margin-bottom: 40px; 
-    font-size: 0.95em; 
-    color: var(--port-text); 
-    padding-left: 20px; 
-  }
-  .pub-list li { 
-    margin-bottom: 35px; 
-    padding-left: 5px; 
-  }
-  
-  .paper-title { 
-    font-weight: 700; 
-    color: var(--port-primary); 
-    display: block; 
-    margin: 0 0 6px 0; 
-    font-size: 1.05em; 
-    line-height: 1.4;
+
+  .pub-list {
+    padding-left: 22px;
+
+    font-size: 0.9em;
   }
 
-  .authors-list { 
-    font-size: 0.9em; 
-    color: var(--port-muted); 
-    margin-bottom: 12px; 
+
+  .pub-list li {
+    margin-bottom: 15px;
   }
 
-  /* Interactive Toolbar */
-  .paper-meta { 
-    display: flex; 
-    flex-wrap: wrap; 
-    align-items: center; 
-    gap: 10px; 
-    margin-top: 8px; 
+
+  .meta-btn,
+  .impact-badge {
+
+    padding:
+      2px 6px;
+
+    font-size:
+      0.67em;
   }
 
-  .meta-btn, .impact-badge {
-    cursor: pointer; 
-    font-size: 0.75em; 
-    font-weight: 600; 
-    border-radius: 4px;
-    padding: 4px 10px;
-    transition: all 0.2s ease; 
-    display: inline-block;
-    letter-spacing: 0.03em;
-  }
 
-  /* Toolbar Button Styles */
-  .venue-btn { background-color: var(--port-primary); color: #ffffff; border: 1px solid var(--port-primary); }
-  .impact-badge { background-color: var(--port-bg); color: var(--port-primary); border: 1px solid var(--port-border); cursor: default; }
-  .doi-btn { background-color: #f0f7ff; color: #3172b4; border: 1px solid #d0e3f7; }
-  .abstract-btn { background-color: var(--port-bg); color: var(--port-muted); border: 1px solid var(--port-border); text-transform: uppercase; }
-  .abstract-btn:hover { background-color: var(--port-primary); color: #ffffff; border-color: var(--port-primary); }
-
-  /* Info Boxes (Abstract Dropdowns) */
   .info-box {
-    display: none; 
-    margin-top: 15px; 
-    font-size: 0.95em; 
-    padding: 16px 20px;
-    background: var(--port-bg); 
-    border-left: 3px solid var(--port-primary); 
-    border-radius: 0 4px 4px 0;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.03); 
-    border-top: 1px solid var(--port-border);
-    border-right: 1px solid var(--port-border);
-    border-bottom: 1px solid var(--port-border);
+    padding:
+      8px 10px;
   }
-  
-  .info-box p { 
-    text-align: justify !important; 
-    text-justify: inter-word !important;
-    line-height: 1.7 !important;
-    margin: 0 0 12px 0; 
-    color: var(--port-text);
-  }
-  .info-box p:last-child { margin-bottom: 0; }
-  .badge-wrap { display: inline-block; vertical-align: middle; margin-top: -2px; }
 
-  @media (max-width: 768px) { 
-    .pub-list { font-size: 0.95em; padding-left: 15px; } 
-    .pub-list li { margin-bottom: 30px; }
-    .paper-title { font-size: 1em; }
-    .meta-btn, .impact-badge { padding: 4px 8px; font-size: 0.7em; }
-    .info-box { padding: 14px 16px; }
-  }
+}
+
 </style>
 
-{% include base_path %}
 
-<div id="zotero-publications">
-  <p style="color: var(--port-muted);">Loading publications from Zotero...</p>
+{% assign publication_data = site.data.zotero_publications %}
+
+
+{% if publication_data and publication_data.years %}
+
+<div class="publication-info">
+  {{ publication_data.count }} publications ·
+  automatically synchronized with Zotero
 </div>
 
-<script>
-document.addEventListener("DOMContentLoaded", async function () {
 
-  const zoteroUserID = "10108379";
-  const container = document.getElementById("zotero-publications");
+<div id="publication-list">
 
-  const apiURL =
-    `https://api.zotero.org/users/${zoteroUserID}/publications/items` +
-    `?format=json&sort=date&direction=desc&limit=100&v=3`;
+{% for year_group in publication_data.years %}
 
-
-  function escapeHTML(value) {
-    if (!value) return "";
-
-    return String(value)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
+  <h2 class="pub-section-title">
+    {{ year_group.year }}
+  </h2>
 
 
-  function getYear(date) {
-    if (!date) return "Undated";
+  <ol class="pub-list">
 
-    const match = String(date).match(/\b(18|19|20|21)\d{2}\b/);
+  {% for pub in year_group.items %}
 
-    return match ? match[0] : "Undated";
-  }
+    <li
+      class="publication-entry"
+      value="{{ pub.number }}"
+    >
 
-
-  function formatCreator(creator) {
-
-    if (creator.name) {
-      return escapeHTML(creator.name);
-    }
-
-    const lastName = creator.lastName || "";
-    const firstName = creator.firstName || "";
-
-    const initials = firstName
-      .split(/[\s-]+/)
-      .filter(Boolean)
-      .map(name => name.charAt(0).toUpperCase() + ".")
-      .join(" ");
-
-    let formatted =
-      escapeHTML(lastName + (initials ? ", " + initials : ""));
-
-    if (lastName.toLowerCase() === "willmes") {
-      formatted = `<strong>${formatted}</strong>`;
-    }
-
-    return formatted;
-  }
-
-
-  function formatAuthors(creators) {
-
-    if (!creators || creators.length === 0) return "";
-
-    return creators
-      .filter(c =>
-        !c.creatorType ||
-        ["author", "editor", "bookAuthor"].includes(c.creatorType)
-      )
-      .map(formatCreator)
-      .join(", ");
-  }
-
-
-  function getVenue(item) {
-
-    return (
-      item.publicationTitle ||
-      item.proceedingsTitle ||
-      item.bookTitle ||
-      item.university ||
-      item.institution ||
-      item.publisher ||
-      ""
-    );
-  }
-
-
-  function getVenueDetails(item) {
-
-    const parts = [];
-
-    const venue = getVenue(item);
-
-    if (venue) {
-      parts.push(venue);
-    }
-
-    if (item.volume) {
-
-      let volume = item.volume;
-
-      if (item.issue) {
-        volume += `(${item.issue})`;
-      }
-
-      parts.push(volume);
-    }
-
-    if (item.pages) {
-      parts.push(item.pages);
-    }
-
-    return parts.join(", ");
-  }
-
-
-  function getItemTypeLabel(type) {
-
-    const labels = {
-      journalArticle: "Journal article",
-      conferencePaper: "Conference paper",
-      bookSection: "Book chapter",
-      book: "Book",
-      report: "Report",
-      thesis: "Thesis",
-      preprint: "Preprint",
-      webpage: "Web publication"
-    };
-
-    return labels[type] || "Publication";
-  }
-
-
-  function publicationHTML(item) {
-
-    const title = escapeHTML(item.title || "Untitled");
-    const authors = formatAuthors(item.creators);
-    const year = getYear(item.date);
-
-    const venue = escapeHTML(getVenue(item));
-    const venueDetails = escapeHTML(getVenueDetails(item));
-
-    const abstract = escapeHTML(item.abstractNote || "");
-
-    const doi = item.DOI
-      ? `https://doi.org/${item.DOI.trim()}`
-      : "";
-
-    const itemURL = item.url
-      ? escapeHTML(item.url)
-      : "";
-
-    const number = item.publicationNumber;
-
-    let buttons = "";
-
-
-    if (venue) {
-
-      buttons += `
-        <span class="meta-btn venue-btn"
-              data-full="${venueDetails}">
-          ${venue}
-        </span>
-      `;
-    }
-
-
-    buttons += `
-      <span class="impact-badge">
-        ${getItemTypeLabel(item.itemType)}
+      <span class="paper-title">
+        {{ pub.title | escape }}
       </span>
-    `;
 
 
-    if (abstract) {
+      <div class="authors-list">
+        {{ pub.authors_html }}
+        ({{ pub.year }})
+      </div>
 
-      buttons += `
-        <span class="meta-btn abstract-btn">
-          Abstract
+
+      <div class="paper-meta">
+
+
+        {% if pub.venue != "" %}
+
+        <button
+          type="button"
+          class="meta-btn venue-btn"
+          aria-expanded="false"
+        >
+          {{ pub.venue | escape }}
+        </button>
+
+        {% endif %}
+
+
+        <span class="impact-badge">
+          {{ pub.type_label | escape }}
         </span>
-      `;
-    }
 
 
-    if (doi) {
+        {% if pub.abstract != "" %}
 
-      buttons += `
-        <a class="meta-btn doi-btn"
-           href="${doi}"
-           target="_blank"
-           rel="noopener noreferrer"
-           style="text-decoration:none;">
+        <button
+          type="button"
+          class="meta-btn abstract-btn"
+          aria-expanded="false"
+        >
+          Abstract
+        </button>
+
+        {% endif %}
+
+
+        {% if pub.doi_url != "" %}
+
+        <a
+          class="meta-btn doi-btn"
+          href="{{ pub.doi_url | escape }}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           DOI
         </a>
-      `;
 
-    } else if (itemURL) {
 
-      buttons += `
-        <a class="meta-btn doi-btn"
-           href="${itemURL}"
-           target="_blank"
-           rel="noopener noreferrer"
-           style="text-decoration:none;">
+        {% elsif pub.url != "" %}
+
+        <a
+          class="meta-btn doi-btn"
+          href="{{ pub.url | escape }}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Link
         </a>
-      `;
-    }
+
+        {% endif %}
 
 
-    return `
-      <li value="${number}">
+      </div>
 
-        <span class="paper-title">
-          ${title}
-        </span>
 
-        <div class="authors-list">
-          ${authors} (${year})
-        </div>
+      {% if pub.venue_details != "" %}
 
-        <div class="paper-meta">
-          ${buttons}
-        </div>
+      <div class="info-box details-info">
 
-        <div class="info-box details-info"></div>
+        <strong>Published in:</strong>
 
-        ${
-          abstract
-            ? `
-              <div class="info-box abstract-info">
-                <p>${abstract}</p>
-              </div>
-            `
-            : ""
+        {{ pub.venue_details | escape }}
+
+      </div>
+
+      {% endif %}
+
+
+      {% if pub.abstract != "" %}
+
+      <div class="info-box abstract-info">
+
+        <p>
+          {{ pub.abstract
+             | escape
+             | newline_to_br }}
+        </p>
+
+      </div>
+
+      {% endif %}
+
+
+    </li>
+
+  {% endfor %}
+
+  </ol>
+
+{% endfor %}
+
+</div>
+
+
+{% else %}
+
+<p>
+  Publication data are currently unavailable.
+</p>
+
+{% endif %}
+
+
+
+<script>
+
+document.addEventListener(
+  "DOMContentLoaded",
+  function () {
+
+
+    const entries =
+      document.querySelectorAll(
+        ".publication-entry"
+      );
+
+
+    entries.forEach(
+      function (entry) {
+
+
+        const venueButton =
+          entry.querySelector(
+            ".venue-btn"
+          );
+
+
+        const abstractButton =
+          entry.querySelector(
+            ".abstract-btn"
+          );
+
+
+        const venueBox =
+          entry.querySelector(
+            ".details-info"
+          );
+
+
+        const abstractBox =
+          entry.querySelector(
+            ".abstract-info"
+          );
+
+
+        /*
+         * Venue details
+         */
+
+        if (
+          venueButton &&
+          venueBox
+        ) {
+
+          venueButton.addEventListener(
+            "click",
+            function () {
+
+
+              const isOpen =
+                venueBox.style.display
+                === "block";
+
+
+              if (abstractBox) {
+
+                abstractBox.style.display =
+                  "none";
+
+                if (abstractButton) {
+
+                  abstractButton
+                    .setAttribute(
+                      "aria-expanded",
+                      "false"
+                    );
+
+                }
+
+              }
+
+
+              venueBox.style.display =
+                isOpen
+                ? "none"
+                : "block";
+
+
+              venueButton.setAttribute(
+                "aria-expanded",
+                isOpen
+                  ? "false"
+                  : "true"
+              );
+
+            }
+          );
+
         }
 
-      </li>
-    `;
-  }
+
+        /*
+         * Abstract
+         */
+
+        if (
+          abstractButton &&
+          abstractBox
+        ) {
+
+          abstractButton.addEventListener(
+            "click",
+            function () {
 
 
-  try {
+              const isOpen =
+                abstractBox.style.display
+                === "block";
 
-    const response = await fetch(apiURL, {
-      headers: {
-        "Zotero-API-Version": "3"
+
+              if (venueBox) {
+
+                venueBox.style.display =
+                  "none";
+
+                if (venueButton) {
+
+                  venueButton
+                    .setAttribute(
+                      "aria-expanded",
+                      "false"
+                    );
+
+                }
+
+              }
+
+
+              abstractBox.style.display =
+                isOpen
+                ? "none"
+                : "block";
+
+
+              abstractButton
+                .setAttribute(
+                  "aria-expanded",
+                  isOpen
+                    ? "false"
+                    : "true"
+                );
+
+            }
+          );
+
+        }
+
       }
-    });
-
-
-    if (!response.ok) {
-      throw new Error(
-        `Zotero API returned HTTP ${response.status}`
-      );
-    }
-
-
-    const results = await response.json();
-
-
-    /*
-      Zotero returns newest -> oldest because direction=desc.
-    */
-
-    const items = results
-      .map(result => result.data || result)
-      .filter(item =>
-        item.itemType !== "attachment" &&
-        item.itemType !== "note" &&
-        item.itemType !== "annotation"
-      );
-
-
-    if (items.length === 0) {
-
-      container.innerHTML =
-        "<p>No publications found in Zotero My Publications.</p>";
-
-      return;
-    }
-
-
-    /*
-      NUMBERING
-
-      The array is:
-
-      newest
-      ...
-      oldest
-
-      So if there are 50 papers:
-
-      newest = 50
-      ...
-      oldest = 1
-    */
-
-    const totalPublications = items.length;
-
-    items.forEach((item, index) => {
-      item.publicationNumber =
-        totalPublications - index;
-    });
-
-
-    /*
-      GROUP BY YEAR
-    */
-
-    const publicationsByYear = {};
-
-
-    items.forEach(item => {
-
-      const year = getYear(item.date);
-
-      if (!publicationsByYear[year]) {
-        publicationsByYear[year] = [];
-      }
-
-      publicationsByYear[year].push(item);
-
-    });
-
-
-    /*
-      YEARS NEWEST -> OLDEST
-    */
-
-    const years = Object
-      .keys(publicationsByYear)
-      .sort((a, b) => {
-
-        if (a === "Undated") return 1;
-        if (b === "Undated") return -1;
-
-        return Number(b) - Number(a);
-
-      });
-
-
-    /*
-      BUILD PAGE
-    */
-
-    let html = "";
-
-
-    years.forEach(year => {
-
-      html += `
-        <h2 class="pub-section-title">
-          ${year}
-        </h2>
-
-        <ol class="pub-list">
-      `;
-
-
-      publicationsByYear[year].forEach(item => {
-        html += publicationHTML(item);
-      });
-
-
-      html += `
-        </ol>
-      `;
-
-    });
-
-
-    container.innerHTML = html;
-
-
-    /*
-      VENUE BUTTONS
-    */
-
-    container
-      .querySelectorAll(".venue-btn")
-      .forEach(button => {
-
-        button.addEventListener("click", function () {
-
-          const parent = this.closest("li");
-
-          const detailsBox =
-            parent.querySelector(".details-info");
-
-          const abstractBox =
-            parent.querySelector(".abstract-info");
-
-
-          if (abstractBox) {
-            abstractBox.style.display = "none";
-          }
-
-
-          const content =
-            this.getAttribute("data-full");
-
-
-          if (detailsBox.style.display === "block") {
-
-            detailsBox.style.display = "none";
-
-          } else {
-
-            detailsBox.innerHTML =
-              `<strong>Published in:</strong> ${content}`;
-
-            detailsBox.style.display = "block";
-
-          }
-
-        });
-
-      });
-
-
-    /*
-      ABSTRACT BUTTONS
-    */
-
-    container
-      .querySelectorAll(".abstract-btn")
-      .forEach(button => {
-
-        button.addEventListener("click", function () {
-
-          const parent = this.closest("li");
-
-          const abstractBox =
-            parent.querySelector(".abstract-info");
-
-          const detailsBox =
-            parent.querySelector(".details-info");
-
-
-          if (detailsBox) {
-            detailsBox.style.display = "none";
-          }
-
-
-          abstractBox.style.display =
-            abstractBox.style.display === "block"
-              ? "none"
-              : "block";
-
-        });
-
-      });
-
-
-  } catch (error) {
-
-    console.error(
-      "Could not load Zotero publications:",
-      error
     );
 
-    container.innerHTML = `
-      <p style="color: var(--port-muted);">
-        Publications could not be loaded from Zotero.
-      </p>
-    `;
-
   }
+);
 
-});
 </script>
