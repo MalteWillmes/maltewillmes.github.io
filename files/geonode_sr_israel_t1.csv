@@ -1,0 +1,1441 @@
+FID,fid,Geometry,name,visibility,open,address,phoneNumber,description,LookAt,Region,Folder
+geonode_sr_israel_t1.1,1,POINT (34.94729166700006 32.72029833300007),sr_israel_t1.1,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°43.2179'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°56.8375'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS001</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">4.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On highway from Haifa-Tel Aviv under railway bridge @ ""railway"" archaeological site</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Calcareous Sandstone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.94729166700006 32.720298333000066),,geonode:sr_israel_t1
+geonode_sr_israel_t1.2,2,POINT (34.86782666700003 32.38977500000004),sr_israel_t1.2,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°23.3865'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.0696'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS002</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">0.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Unconsolidated coastal dune between highway 2 and the beach near Hadera</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qs</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, silt</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.867826667000024 32.38977500000003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.3,3,POINT (34.92714166700006 32.534373333000076),sr_israel_t1.3,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°32.0624'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°55.6285'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS003</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">4.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On edge of olive grove, off Highway 4 near Bet Hanayan, near foot of Carmel Range</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.92714166700006 32.534373333000076),,geonode:sr_israel_t1
+geonode_sr_israel_t1.4,4,POINT (34.93363833300003 32.56113666700003),sr_israel_t1.4,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°33.6682'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°56.0183'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS004</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">6.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Adjacent to Highway 2 in new construction near Kebara Cave</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Sandstone with Carbonate Matrix</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (34.93363833300003 32.56113666700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.5,5,POINT (34.93363833300003 32.56113666700003),sr_israel_t1.5,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°33.6682'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°56.0183'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS004</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">6.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Adjacent to Highway 2 in new construction near Kebara Cave</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Sandstone with Carbonate Matrix</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (34.93363833300003 32.56113666700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.6,6,POINT (34.93363833300003 32.56113666700003),sr_israel_t1.6,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°33.6682'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°56.0183'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS004</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">6.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Adjacent to Highway 2 in new construction near Kebara Cave</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Sandstone with Carbonate Matrix</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (34.93363833300003 32.56113666700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.7,7,POINT (34.972208333000026 32.734336667000036),sr_israel_t1.7,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°44.0602'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°58.3325'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS005</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">92.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Msylia Cave on Carmel Range east of Highway 4 Sth of Haifa</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Reefal Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.97220833300003 32.734336667000036),,geonode:sr_israel_t1
+geonode_sr_israel_t1.8,8,POINT (34.972208333000026 32.734336667000036),sr_israel_t1.8,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°44.0602'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°58.3325'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS005</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">92.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Msylia Cave on Carmel Range east of Highway 4 Sth of Haifa</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Reefal Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.97220833300003 32.734336667000036),,geonode:sr_israel_t1
+geonode_sr_israel_t1.9,9,POINT (34.974881667000034 32.71450666700002),sr_israel_t1.9,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°42.8704'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°58.4929'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS006</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">52.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Cave of Nahal Oren, off Highway 4 Sth of Haifa.  Material collected about 5m into cave on E edge</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Reefal Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.97488166700004 32.71450666700002),,geonode:sr_israel_t1
+geonode_sr_israel_t1.10,10,POINT (34.974881667000034 32.71450666700002),sr_israel_t1.10,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°42.8704'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°58.4929'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS006</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">52.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Cave of Nahal Oren, off Highway 4 Sth of Haifa.  Material collected about 5m into cave on E edge</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Reefal Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.97488166700004 32.71450666700002),,geonode:sr_israel_t1
+geonode_sr_israel_t1.11,11,POINT (34.95734333300004 32.55239166700005),sr_israel_t1.11,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°33.1435'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°57.4406'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS007</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">66.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off Highway 652, South of Neve Sharel</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t, adjacent to Buc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.95734333300004 32.55239166700005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.12,12,POINT (34.95734333300004 32.55239166700005),sr_israel_t1.12,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°33.1435'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°57.4406'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS007</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">66.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off Highway 652, South of Neve Sharel</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t, adjacent to Buc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.95734333300004 32.55239166700005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.13,13,POINT (35.003210000000024 32.60456166700004),sr_israel_t1.13,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°36.2737'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.1926'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS008</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">100.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On track into forest North of Bat Shlomo</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalk</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ea</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.003210000000024 32.60456166700004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.14,14,POINT (35.003210000000024 32.60456166700004),sr_israel_t1.14,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°36.2737'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.1926'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS008</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">100.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On track into forest North of Bat Shlomo</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalk</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ea</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.003210000000024 32.60456166700004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.15,15,POINT (35.092878333000044 32.972673333000046),sr_israel_t1.15,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°58.3604'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°05.5727'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS009</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">9.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">North of Akko near turnoff to Regba and Nes Ammin (8611)</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Calcareous Sandstone ""Kurkar""</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.092878333000044 32.972673333000046),,geonode:sr_israel_t1
+geonode_sr_israel_t1.16,16,POINT (35.092878333000044 32.972673333000046),sr_israel_t1.16,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°58.3604'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°05.5727'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS009</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">9.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">North of Akko near turnoff to Regba and Nes Ammin (8611)</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Calcareous Sandstone ""Kurkar""</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.092878333000044 32.972673333000046),,geonode:sr_israel_t1
+geonode_sr_israel_t1.17,17,POINT (35.19941166700005 33.077186667000035),sr_israel_t1.17,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°04.6312'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°11.9647'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS010</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">396.7</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In small park on Lebanese border</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.199411667000064 33.07718666700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.18,18,POINT (35.19941166700005 33.077186667000035),sr_israel_t1.18,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°04.6312'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°11.9647'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS010</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">396.7</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In small park on Lebanese border</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.199411667000064 33.07718666700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.19,19,POINT (35.276948333000064 33.07701833300007),sr_israel_t1.19,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°04.6211'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.6169'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS011</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">555.0</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 899 at turnoff to Shomeral/Zarit</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Very Fine Grained Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sp</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Senonian-Paleocene</span></li>
+</ul>",POINT (35.276948333000064 33.077018333000076),,geonode:sr_israel_t1
+geonode_sr_israel_t1.20,20,POINT (35.276948333000064 33.07701833300007),sr_israel_t1.20,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°04.6211'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.6169'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS011</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">555.0</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 899 at turnoff to Shomeral/Zarit</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Very Fine Grained Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sp</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Senonian-Paleocene</span></li>
+</ul>",POINT (35.276948333000064 33.077018333000076),,geonode:sr_israel_t1
+geonode_sr_israel_t1.21,21,POINT (35.348003333000065 33.04939500000006),sr_israel_t1.21,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°02.9637'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°20.8802'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS012</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">673.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Road 8994 just south of turnoff from road 899 at Har Biranit</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.34800333300006 33.04939500000006),,geonode:sr_israel_t1
+geonode_sr_israel_t1.22,22,POINT (35.348003333000065 33.04939500000006),sr_israel_t1.22,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N33°02.9637'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°20.8802'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS012</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">673.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Road 8994 just south of turnoff from road 899 at Har Biranit</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.34800333300006 33.04939500000006),,geonode:sr_israel_t1
+geonode_sr_israel_t1.23,23,POINT (35.37315833300005 32.96145500000006),sr_israel_t1.23,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°57.6873'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°22.3895'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS013</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">935.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On North side of road near a quarry on the way to Beit Jan</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.37315833300005 32.96145500000006),,geonode:sr_israel_t1
+geonode_sr_israel_t1.24,24,POINT (35.37315833300005 32.96145500000006),sr_israel_t1.24,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°57.6873'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°22.3895'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS013</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">935.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On North side of road near a quarry on the way to Beit Jan</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.37315833300005 32.96145500000006),,geonode:sr_israel_t1
+geonode_sr_israel_t1.25,25,POINT (35.09781166700003 32.766873333000035),sr_israel_t1.25,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°46.0124'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°05.8687'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS014</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">9.0</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In paddock to the east of Highway 70 heading north from Haifa</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.09781166700004 32.766873333000035),,geonode:sr_israel_t1
+geonode_sr_israel_t1.26,26,POINT (35.158968333000075 32.83267833300005),sr_israel_t1.26,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°49.9607'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°09.5381'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS015</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">62.7</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On small side road parallel to Highway 70 near Shafar'am</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone Breccia</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.158968333000075 32.83267833300005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.27,27,POINT (35.158968333000075 32.83267833300005),sr_israel_t1.27,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°49.9607'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°09.5381'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS015</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">62.7</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On small side road parallel to Highway 70 near Shafar'am</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone Breccia</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.158968333000075 32.83267833300005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.28,28,POINT (35.24863333300004 32.87611000000004),sr_israel_t1.28,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°52.5666'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.9180'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS016</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">272.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off Highway 805 on way to Ya'aa</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sp</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Senonian-Paleocene</span></li>
+</ul>",POINT (35.24863333300004 32.87611000000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.29,29,POINT (35.24863333300004 32.87611000000004),sr_israel_t1.29,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°52.5666'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.9180'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS016</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">272.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off Highway 805 on way to Ya'aa</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sp</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Senonian-Paleocene</span></li>
+</ul>",POINT (35.24863333300004 32.87611000000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.30,30,POINT (35.38867666700003 32.854295000000036),sr_israel_t1.30,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°51.2577'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°23.3206'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS017</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">169.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">East of Deir Hana on road 805, next to Muslim shrine in olive grove</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky White Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">lc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, chalk, marl, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower Cretaceous</span></li>
+</ul>",POINT (35.38867666700003 32.854295000000036),,geonode:sr_israel_t1
+geonode_sr_israel_t1.31,31,POINT (35.38867666700003 32.854295000000036),sr_israel_t1.31,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°51.2577'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°23.3206'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS017</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">169.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">East of Deir Hana on road 805, next to Muslim shrine in olive grove</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky White Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">lc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, chalk, marl, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower Cretaceous</span></li>
+</ul>",POINT (35.38867666700003 32.854295000000036),,geonode:sr_israel_t1
+geonode_sr_israel_t1.32,32,POINT (35.27427666700004 32.84161166700005),sr_israel_t1.32,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°50.4967'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.4566'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS018</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">421.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 7955 just west of turnoff to Yodfat</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.274276667000045 32.84161166700005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.33,33,POINT (35.27427666700004 32.84161166700005),sr_israel_t1.33,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°50.4967'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.4566'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS018</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">421.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 7955 just west of turnoff to Yodfat</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.274276667000045 32.84161166700005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.34,34,POINT (35.053793333000044 32.663948333000064),sr_israel_t1.34,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°39.8369'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°03.2276'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS019</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">308.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 672 South of Carmel in firing range</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.053793333000044 32.663948333000064),,geonode:sr_israel_t1
+geonode_sr_israel_t1.35,35,POINT (35.053793333000044 32.663948333000064),sr_israel_t1.35,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°39.8369'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°03.2276'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS019</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">308.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 672 South of Carmel in firing range</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.053793333000044 32.663948333000064),,geonode:sr_israel_t1
+geonode_sr_israel_t1.36,36,POINT (35.03268500000007 32.60807500000004),sr_israel_t1.36,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°36.4845'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.9611'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS020</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">109.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 70 to the west of the Elyakim Interchange</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ea</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.03268500000007 32.60807500000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.37,37,POINT (35.03268500000007 32.60807500000004),sr_israel_t1.37,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°36.4845'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.9611'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS020</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">109.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 70 to the west of the Elyakim Interchange</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ea</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.03268500000007 32.60807500000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.38,38,POINT (35.01118166700007 32.71329833300007),sr_israel_t1.38,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°42.7979'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.6709'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS021</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">335.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off road 721 in Carmel Range near the Spa Resort</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.011181667000066 32.71329833300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.39,39,POINT (35.01118166700007 32.71329833300007),sr_israel_t1.39,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°42.7979'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.6709'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS021</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">335.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off road 721 in Carmel Range near the Spa Resort</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.011181667000066 32.71329833300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.40,40,POINT (35.023128333000045 32.756980000000055),sr_israel_t1.40,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°45.4188'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.3877'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS022</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">445.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 672 next to Haifa University</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.023128333000045 32.75698000000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.41,41,POINT (35.023128333000045 32.756980000000055),sr_israel_t1.41,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°45.4188'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.3877'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS022</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">445.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 672 next to Haifa University</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.023128333000045 32.75698000000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.42,42,POINT (35.023128333000045 32.756980000000055),sr_israel_t1.42,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°45.4188'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.3877'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS022</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">445.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 672 next to Haifa University</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (35.023128333000045 32.75698000000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.43,43,POINT (35.24363333300005 32.58383333300003),sr_israel_t1.43,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°35.0300'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.6180'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS023</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">54.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">New service station on road 675 just east of turnoff from Hwy 65</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.24363333300004 32.583833333000044),,geonode:sr_israel_t1
+geonode_sr_israel_t1.44,44,POINT (35.54734000000008 32.721581667000066),sr_israel_t1.44,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°43.2949'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°32.8404'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS024</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">72.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off highway 768 just North of Alumot junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">Bc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Basalt, basanite/flows, intrusions and volcaniclastics</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Pliocene-Pleistocene</span></li>
+</ul>",POINT (35.547340000000084 32.721581667000066),,geonode:sr_israel_t1
+geonode_sr_israel_t1.45,45,POINT (35.54734000000008 32.721581667000066),sr_israel_t1.45,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°43.2949'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°32.8404'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS024</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">72.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off highway 768 just North of Alumot junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">Bc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Basalt, basanite/flows, intrusions and volcaniclastics</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Pliocene-Pleistocene</span></li>
+</ul>",POINT (35.547340000000084 32.721581667000066),,geonode:sr_israel_t1
+geonode_sr_israel_t1.46,46,POINT (35.48416166700002 32.44846666700005),sr_israel_t1.46,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°26.9080'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°29.0497'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS025</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">121.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In village of Rekhov on Highway 90</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.48416166700003 32.44846666700005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.47,47,POINT (35.41316000000006 32.485691667000026),sr_israel_t1.47,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°29.1415'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°24.7896'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS026</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">313.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At turnoff of Road 6666 from 667 in Gilb'oa Mountains</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">et</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.413160000000076 32.485691667000026),,geonode:sr_israel_t1
+geonode_sr_israel_t1.48,48,POINT (35.41316000000006 32.485691667000026),sr_israel_t1.48,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°29.1415'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°24.7896'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS026</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">313.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At turnoff of Road 6666 from 667 in Gilb'oa Mountains</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">et</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.413160000000076 32.485691667000026),,geonode:sr_israel_t1
+geonode_sr_israel_t1.49,49,POINT (35.057418333000044 31.807115000000067),sr_israel_t1.49,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°48.4269'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°03.4451'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS028</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">487.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 1 near village of Shar Hugay</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c1</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Albian-Cenomanian</span></li>
+</ul>",POINT (35.057418333000044 31.807115000000074),,geonode:sr_israel_t1
+geonode_sr_israel_t1.50,50,POINT (35.057418333000044 31.807115000000067),sr_israel_t1.50,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°48.4269'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°03.4451'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS028</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">487.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 1 near village of Shar Hugay</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c1</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Albian-Cenomanian</span></li>
+</ul>",POINT (35.057418333000044 31.807115000000074),,geonode:sr_israel_t1
+geonode_sr_israel_t1.51,51,POINT (34.96258166700005 31.98412333300007),sr_israel_t1.51,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°59.0474'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°57.7549'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS029</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">85.1</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 6 south of the Giv'at Ko'akh junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, marl, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.96258166700006 31.98412333300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.52,52,POINT (34.95857833300005 32.20392500000003),sr_israel_t1.52,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°12.2355'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°57.5147'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS030</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">52.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At Eyal Interchange of Highway 6 on side road 5504</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qh</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.95857833300005 32.203925000000034),,geonode:sr_israel_t1
+geonode_sr_israel_t1.53,53,POINT (34.84966166700008 32.109515000000044),sr_israel_t1.53,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N32°06.5709'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°50.9797'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS031</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">5.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 4, just south of Marasha interchange in orchard on west of road</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qh</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.849661667000085 32.10951500000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.54,54,POINT (35.23412166700007 31.804395000000056),sr_israel_t1.54,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°48.2637'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.0473'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS032</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">796.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Near Bed and Breakfast on Sheshet Hayamin Street in Jerasulem in excavations for light rail</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalk</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, cert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Coniacian-Campanian</span></li>
+</ul>",POINT (35.23412166700005 31.804395000000056),,geonode:sr_israel_t1
+geonode_sr_israel_t1.55,55,POINT (35.23412166700007 31.804395000000056),sr_israel_t1.55,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°48.2637'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.0473'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS032</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">796.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Near Bed and Breakfast on Sheshet Hayamin Street in Jerasulem in excavations for light rail</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalk</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">sc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, cert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Coniacian-Campanian</span></li>
+</ul>",POINT (35.23412166700005 31.804395000000056),,geonode:sr_israel_t1
+geonode_sr_israel_t1.56,56,POINT (34.80491333300006 31.773705000000064),sr_israel_t1.56,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°46.4223'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°48.2948'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS033</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">66.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Off Highway 3, near Revadim</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.804913333000044 31.77370500000005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.57,57,POINT (34.64542666700004 31.65956833300004),sr_israel_t1.57,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°39.5741'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°38.7256'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS034</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">73.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 35 in road cutting just east of Ashkelon</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Poorly Consolidated Beach Ridge</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.64542666700004 31.659568333000045),,geonode:sr_israel_t1
+geonode_sr_israel_t1.58,58,POINT (34.64542666700004 31.65956833300004),sr_israel_t1.58,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°39.5741'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°38.7256'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS034</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">73.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 35 in road cutting just east of Ashkelon</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Poorly Consolidated Beach Ridge</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">qk</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Clay, silt, sand</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.64542666700004 31.659568333000045),,geonode:sr_israel_t1
+geonode_sr_israel_t1.59,59,POINT (34.78877333300005 31.40171166700003),sr_israel_t1.59,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°24.1027'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°47.3264'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS035</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">263.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 North of Be'er Sheva</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.788773333000044 31.40171166700003),,geonode:sr_israel_t1
+geonode_sr_israel_t1.60,60,POINT (34.80762000000004 31.131868333000057),sr_israel_t1.60,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°07.9121'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°48.4572'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS036</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">319.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 near Ramot Khovav Industrial Zone South of Be'er Sheva</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalk</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ea</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (34.807620000000036 31.131868333000064),,geonode:sr_israel_t1
+geonode_sr_israel_t1.61,61,POINT (34.78247166700004 30.897808333000057),sr_israel_t1.61,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°53.8685'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°46.9483'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS037</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">521.7</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 to the North of Sde Boker</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, conglomerate, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (34.78247166700004 30.89780833300005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.62,62,POINT (34.57127666700006 30.50002333300006),sr_israel_t1.62,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°30.0014'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°34.2766'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS038</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">951.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At Har Kharif border post on Road 171</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">con</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Coniacian</span></li>
+</ul>",POINT (34.57127666700006 30.500023333000073),,geonode:sr_israel_t1
+geonode_sr_israel_t1.63,63,POINT (34.57127666700006 30.50002333300006),sr_israel_t1.63,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°30.0014'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°34.2766'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS038</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">951.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At Har Kharif border post on Road 171</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">con</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Coniacian</span></li>
+</ul>",POINT (34.57127666700006 30.500023333000073),,geonode:sr_israel_t1
+geonode_sr_israel_t1.64,64,POINT (34.78567166700003 30.69105333300007),sr_israel_t1.64,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°41.4632'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°47.1403'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS039</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">756.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">North of Mitze Ramon on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">enm</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (34.78567166700003 30.69105333300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.65,65,POINT (34.78567166700003 30.69105333300007),sr_israel_t1.65,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°41.4632'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°47.1403'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS039</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">756.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">North of Mitze Ramon on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">enm</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, chert</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (34.78567166700003 30.69105333300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.66,66,POINT (34.860631667000064 30.61155000000008),sr_israel_t1.66,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°36.6930'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°51.6379'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS040</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">485.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In floor of Mitze Ramon Crator on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt?</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">jl2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower Jurassic</span></li>
+</ul>",POINT (34.860631667000064 30.61155000000008),,geonode:sr_israel_t1
+geonode_sr_israel_t1.67,67,POINT (34.860631667000064 30.61155000000008),sr_israel_t1.67,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°36.6930'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°51.6379'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS040</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">485.6</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In floor of Mitze Ramon Crator on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt?</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">jl2</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower Jurassic</span></li>
+</ul>",POINT (34.860631667000064 30.61155000000008),,geonode:sr_israel_t1
+geonode_sr_israel_t1.68,68,POINT (35.01538833300003 30.224231667000026),sr_israel_t1.68,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°13.4539'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.9233'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS041</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">286.3</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 just south of Tsikhor junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">eav</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.01538833300003 30.224231667000026),,geonode:sr_israel_t1
+geonode_sr_israel_t1.69,69,POINT (35.01538833300003 30.224231667000026),sr_israel_t1.69,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°13.4539'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.9233'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS041</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">286.3</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 just south of Tsikhor junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">eav</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.01538833300003 30.224231667000026),,geonode:sr_israel_t1
+geonode_sr_israel_t1.70,70,POINT (35.01538833300003 30.224231667000026),sr_israel_t1.70,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°13.4539'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.9233'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS041</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">286.3</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 40 just south of Tsikhor junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">eav</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.01538833300003 30.224231667000026),,geonode:sr_israel_t1
+geonode_sr_israel_t1.71,71,POINT (35.015518333000045 30.046558333000064),sr_israel_t1.71,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°02.7935'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.9311'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS042</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">398.0</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At Shiafon junction on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Marl, limestone, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.015518333000045 30.04655833300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.72,72,POINT (35.015518333000045 30.046558333000064),sr_israel_t1.72,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°02.7935'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°00.9311'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS042</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">398.0</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">At Shiafon junction on Highway 40</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Marl, limestone, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.015518333000045 30.04655833300007),,geonode:sr_israel_t1
+geonode_sr_israel_t1.73,73,POINT (35.03123666700003 29.833953333000068),sr_israel_t1.73,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°50.0372'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°01.8742'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS043</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Soil</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">74.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In rift valley, off Highway 90 in side road to ""Predator's Centre""</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">No Bedrock</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (35.03123666700003 29.833953333000068),,geonode:sr_israel_t1
+geonode_sr_israel_t1.74,74,POINT (34.99519166700003 29.786486667000077),sr_israel_t1.74,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°47.1892'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°59.7115'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS044</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">179.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On side road to Timna Park off Highway 90</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Granite/Granodiorite</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">γt</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, pebbly sandstone, conglomerate, mudstone, dolostone, limestone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Precambrian</span></li>
+</ul>",POINT (34.99519166700003 29.786486667000077),,geonode:sr_israel_t1
+geonode_sr_israel_t1.75,75,POINT (34.99519166700003 29.786486667000077),sr_israel_t1.75,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°47.1892'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°59.7115'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS044</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">179.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On side road to Timna Park off Highway 90</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Granite/Granodiorite</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">γt</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, pebbly sandstone, conglomerate, mudstone, dolostone, limestone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Precambrian</span></li>
+</ul>",POINT (34.99519166700003 29.786486667000077),,geonode:sr_israel_t1
+geonode_sr_israel_t1.76,76,POINT (34.898406667000074 29.558430000000044),sr_israel_t1.76,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°33.5058'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°53.9044'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS045</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">293.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Down canyon to the south of Highway 12 to the W of Eilat</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Granite</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">γ</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, pebbly sandstone, conglomerate, mudstone dolostone, limestone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Precambrian</span></li>
+</ul>",POINT (34.898406667000074 29.558430000000044),,geonode:sr_israel_t1
+geonode_sr_israel_t1.77,77,POINT (34.898406667000074 29.558430000000044),sr_israel_t1.77,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°33.5058'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°53.9044'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS045</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">293.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Down canyon to the south of Highway 12 to the W of Eilat</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Granite</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">γ</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, pebbly sandstone, conglomerate, mudstone dolostone, limestone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Precambrian</span></li>
+</ul>",POINT (34.898406667000074 29.558430000000044),,geonode:sr_israel_t1
+geonode_sr_israel_t1.78,78,POINT (34.87536333300005 29.68115833300004),sr_israel_t1.78,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°40.8695'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.5218'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS046</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">666.1</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">In Red Canyon National Park off Highway 12 North of Netafim</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Consolidated Quaternary Sediment</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">nqc</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Basalt, basanite/flows</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Neogene-Quaternary</span></li>
+</ul>",POINT (34.87536333300005 29.68115833300004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.79,79,POINT (34.87197333300003 29.66832500000004),sr_israel_t1.79,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°40.0995'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.3184'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS047</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">739.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Next to highway 12 at upper carpark for Red Canyon</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt?</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q, but immediately adjacent to π</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.871973333000014 29.66832500000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.80,80,POINT (34.87197333300003 29.66832500000004),sr_israel_t1.80,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°40.0995'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.3184'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS047</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">739.4</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Next to highway 12 at upper carpark for Red Canyon</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt?</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">q, but immediately adjacent to π</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Gravel, sand, clay</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Quaternary</span></li>
+</ul>",POINT (34.871973333000014 29.66832500000004),,geonode:sr_israel_t1
+geonode_sr_israel_t1.81,81,POINT (34.871223333000046 29.909240000000068),sr_israel_t1.81,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°54.5544'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.2734'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS048</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">523.3</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 12 just south of Uvda Airforce Base</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Marl</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ca</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chert, chalk, phosphorite, porcelanite, marl, limestone, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Campanian</span></li>
+</ul>",POINT (34.871223333000046 29.909240000000068),,geonode:sr_israel_t1
+geonode_sr_israel_t1.82,82,POINT (34.871223333000046 29.909240000000068),sr_israel_t1.82,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N29°54.5544'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°52.2734'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS048</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">523.3</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 12 just south of Uvda Airforce Base</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Marl</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">ca</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chert, chalk, phosphorite, porcelanite, marl, limestone, dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Campanian</span></li>
+</ul>",POINT (34.871223333000046 29.909240000000068),,geonode:sr_israel_t1
+geonode_sr_israel_t1.83,83,POINT (35.16566666700004 30.46309000000008),sr_israel_t1.83,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°27.7854'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°09.9400'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS049</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">40.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 90 South of Tsukim</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">eav</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.16566666700004 30.46309000000008),,geonode:sr_israel_t1
+geonode_sr_israel_t1.84,84,POINT (35.16566666700004 30.46309000000008),sr_israel_t1.84,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°27.7854'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°09.9400'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS049</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">40.5</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 90 South of Tsukim</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Chalky Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">eav</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Chalk, limestone, marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Lower-Middle Eocene</span></li>
+</ul>",POINT (35.16566666700004 30.46309000000008),,geonode:sr_israel_t1
+geonode_sr_israel_t1.85,85,POINT (35.24018333300006 30.783698333000075),sr_israel_t1.85,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°47.0219'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.4110'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS050</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">135.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 90 just North of turnoff to Khatseva</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Semi-consolidated Aeolian Sand</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">m</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, mudstone, conglomerate, limestone and marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Miocene</span></li>
+</ul>",POINT (35.24018333300006 30.783698333000075),,geonode:sr_israel_t1
+geonode_sr_israel_t1.86,86,POINT (35.24018333300006 30.783698333000075),sr_israel_t1.86,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°47.0219'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°14.4110'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS050</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">135.9</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On Highway 90 just North of turnoff to Khatseva</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Semi-consolidated Aeolian Sand</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">m</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Sandstone, mudstone, conglomerate, limestone and marl</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Miocene</span></li>
+</ul>",POINT (35.24018333300006 30.783698333000075),,geonode:sr_israel_t1
+geonode_sr_israel_t1.87,87,POINT (34.98909666700007 30.95706666700005),sr_israel_t1.87,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°57.4240'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°59.3458'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS051</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">384.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Inside Ha-Makhtesh Ha-Gadol off Road 225</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt/Volcanic Glass</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (34.98909666700007 30.957066667000042),,geonode:sr_israel_t1
+geonode_sr_israel_t1.88,88,POINT (34.98909666700007 30.95706666700005),sr_israel_t1.88,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N30°57.4240'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E034°59.3458'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS051</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">384.8</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">Inside Ha-Makhtesh Ha-Gadol off Road 225</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Basalt/Volcanic Glass</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">c3</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Dolostone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Cenomanian</span></li>
+</ul>",POINT (34.98909666700007 30.957066667000042),,geonode:sr_israel_t1
+geonode_sr_israel_t1.89,89,POINT (35.26836166700008 31.199385000000063),sr_israel_t1.89,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°11.9631'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.1017'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS052</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">260.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 31, east of Khatrurim Junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Evaporite/Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, conglomerate, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.26836166700008 31.19938500000005),,geonode:sr_israel_t1
+geonode_sr_israel_t1.90,90,POINT (35.26836166700008 31.199385000000063),sr_israel_t1.90,true,true,,,"<h4>sr_israel_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">Latitude</span>:</strong> <span class=""atr-value"">N31°11.9631'</span></li>
+  <li><strong><span class=""atr-name"">Longitude</span>:</strong> <span class=""atr-value"">E035°16.1017'</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">IS052</span></li>
+  <li><strong><span class=""atr-name"">Descriptio</span>:</strong> <span class=""atr-value"">Rock</span></li>
+  <li><strong><span class=""atr-name"">Researcher</span>:</strong> <span class=""atr-value"">Ian Moffat</span></li>
+  <li><strong><span class=""atr-name"">Elevation</span>:</strong> <span class=""atr-value"">260.2</span></li>
+  <li><strong><span class=""atr-name"">Site_Locat</span>:</strong> <span class=""atr-value"">On road 31, east of Khatrurim Junction</span></li>
+  <li><strong><span class=""atr-name"">Geology_ob</span>:</strong> <span class=""atr-value"">Evaporite/Limestone</span></li>
+  <li><strong><span class=""atr-name"">Symbol</span>:</strong> <span class=""atr-value"">t</span></li>
+  <li><strong><span class=""atr-name"">Lithology_</span>:</strong> <span class=""atr-value"">Limestone, dolostone, marl, conglomerate, sandstone</span></li>
+  <li><strong><span class=""atr-name"">Age</span>:</strong> <span class=""atr-value"">Turonian</span></li>
+</ul>",POINT (35.26836166700008 31.19938500000005),,geonode:sr_israel_t1

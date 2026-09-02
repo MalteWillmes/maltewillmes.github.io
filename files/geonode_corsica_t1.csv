@@ -1,0 +1,901 @@
+FID,fid,Geometry,name,visibility,open,address,phoneNumber,description,LookAt,Region,Folder
+geonode_corsica_t1.1,1,POINT (8.755229032000045 42.57043001200003),corsica_t1.1,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">001</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.57043001 Longitude : 8.755229032</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.755229032000045 42.570430012000045),,geonode:corsica_t1
+geonode_corsica_t1.2,2,POINT (8.753899997000076 42.568982961000074),corsica_t1.2,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">002</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5689829607 Longitude : 8.7538999971</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.753899997000076 42.56898296100009),,geonode:corsica_t1
+geonode_corsica_t1.3,3,POINT (8.721176041000035 42.53499803100004),corsica_t1.3,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">003</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5349980313 Longitude : 8.7211760413</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.721176041000035 42.53499803100006),,geonode:corsica_t1
+geonode_corsica_t1.4,4,POINT (8.683568034000075 42.470396021000056),corsica_t1.4,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">004</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4703960214 Longitude : 8.6835680343</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.683568034000075 42.470396021000056),,geonode:corsica_t1
+geonode_corsica_t1.5,5,POINT (8.67186103000006 42.426071009000054),corsica_t1.5,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">005</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4260710087 Longitude : 8.6718610302</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.67186103000006 42.42607100900005),,geonode:corsica_t1
+geonode_corsica_t1.6,6,POINT (8.682460030000072 42.415148970000075),corsica_t1.6,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">006</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4151489697 Longitude : 8.6824600305</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.682460030000072 42.415148970000075),,geonode:corsica_t1
+geonode_corsica_t1.7,7,POINT (8.691775007000047 42.388268039000025),corsica_t1.7,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">007</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.3882680386 Longitude : 8.6917750072</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.691775007000047 42.388268039000025),,geonode:corsica_t1
+geonode_corsica_t1.8,8,POINT (8.749862015000076 42.38477496400003),corsica_t1.8,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">008</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.3847749643 Longitude : 8.7498620152</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.74986201500009 42.38477496400003),,geonode:corsica_t1
+geonode_corsica_t1.9,9,POINT (8.851512959000047 42.443954973000075),corsica_t1.9,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">009</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4439549726 Longitude : 8.8515129592</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.851512959000047 42.44395497300008),,geonode:corsica_t1
+geonode_corsica_t1.10,10,POINT (8.80399796200004 42.48020201000003),corsica_t1.10,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">010</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4802020099 Longitude : 8.8039979618</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.80399796200004 42.48020201000003),,geonode:corsica_t1
+geonode_corsica_t1.11,11,POINT (8.791955011000027 42.51560398400005),corsica_t1.11,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">011</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5156039838 Longitude : 8.7919550110</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.791955011000027 42.515603984000045),,geonode:corsica_t1
+geonode_corsica_t1.12,12,POINT (9.005757999000025 42.61406502700004),corsica_t1.12,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">012</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6140650269 Longitude : 9.0057579987</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.005757999000025 42.61406502700004),,geonode:corsica_t1
+geonode_corsica_t1.13,13,POINT (9.02532102500004 42.58826200800007),corsica_t1.13,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">013</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5882620085 Longitude : 9.0253210254</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.02532102500004 42.58826200800007),,geonode:corsica_t1
+geonode_corsica_t1.14,14,POINT (9.038165035000077 42.589157028000045),corsica_t1.14,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">014</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5891570281 Longitude : 9.0381650347</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.038165035000077 42.58915702800003),,geonode:corsica_t1
+geonode_corsica_t1.15,15,POINT (9.054522989000077 42.584359981000034),corsica_t1.15,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">015</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5843599811 Longitude : 9.0545229893</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.054522989000077 42.584359981000034),,geonode:corsica_t1
+geonode_corsica_t1.16,16,POINT (9.078681981000045 42.57119796200004),corsica_t1.16,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">016</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5711979624 Longitude : 9.0786819812</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.078681981000031 42.57119796200004),,geonode:corsica_t1
+geonode_corsica_t1.17,17,POINT (9.137774985000021 42.54453697200006),corsica_t1.17,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">017</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5445369724 Longitude : 9.1377749853</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.137774985000021 42.54453697200005),,geonode:corsica_t1
+geonode_corsica_t1.18,18,POINT (9.174426030000063 42.51076997300004),corsica_t1.18,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">018</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5107699726 Longitude : 9.1744260304</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.174426030000078 42.51076997300004),,geonode:corsica_t1
+geonode_corsica_t1.19,19,POINT (9.029092966000064 42.449066006000066),corsica_t1.19,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">019</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4490660056 Longitude : 9.0290929656</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.029092966000064 42.44906600600007),,geonode:corsica_t1
+geonode_corsica_t1.20,20,POINT (8.945819009000047 42.41407499600007),corsica_t1.20,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">020</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4140749965 Longitude : 8.9458190091</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.945819009000061 42.41407499600007),,geonode:corsica_t1
+geonode_corsica_t1.21,21,POINT (8.999910029000034 42.43705096600007),corsica_t1.21,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">021</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4370509665 Longitude : 8.9999100287</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.999910029000048 42.43705096600008),,geonode:corsica_t1
+geonode_corsica_t1.22,22,POINT (9.177066491000062 42.47065893900003),corsica_t1.22,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">022</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4747410323 Longitude : 9.1771270148</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.177066491000062 42.470658939000025),,geonode:corsica_t1
+geonode_corsica_t1.23,23,POINT (9.111250034000022 42.37281700600005),corsica_t1.23,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">023</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.3728170060 Longitude : 9.1112500336</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.111250034000037 42.37281700600005),,geonode:corsica_t1
+geonode_corsica_t1.24,24,POINT (8.94904604200002 42.30382799200004),corsica_t1.24,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">024</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.3038279917 Longitude : 8.9490460418</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.94904604200002 42.30382799200004),,geonode:corsica_t1
+geonode_corsica_t1.25,25,POINT (9.219181035000076 42.45418500200003),corsica_t1.25,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">025</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4541850016 Longitude : 9.2191810347</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.219181035000076 42.45418500200004),,geonode:corsica_t1
+geonode_corsica_t1.26,26,POINT (9.29205698900006 42.43342101600007),corsica_t1.26,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">026</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4334210157 Longitude : 9.2920569889</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.29205698900006 42.43342101600007),,geonode:corsica_t1
+geonode_corsica_t1.27,27,POINT (9.334241012000064 42.41905602600008),corsica_t1.27,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">027</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.4190560263 Longitude : 9.3342410121</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.334241012000064 42.41905602600008),,geonode:corsica_t1
+geonode_corsica_t1.28,28,POINT (9.379586019000044 42.382479999000054),corsica_t1.28,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">028</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.3824799992 Longitude : 9.3795860186</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.379586019000044 42.38247999900005),,geonode:corsica_t1
+geonode_corsica_t1.29,29,POINT (9.10676403900004 42.65214300700006),corsica_t1.29,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">029</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6521430071 Longitude : 9.1067640390</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.10676403900004 42.65214300700006),,geonode:corsica_t1
+geonode_corsica_t1.30,30,POINT (9.121694975000025 42.65805501500006),corsica_t1.30,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">030</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6580550149 Longitude : 9.1216949746</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.121694975000025 42.658055015000066),,geonode:corsica_t1
+geonode_corsica_t1.31,31,POINT (9.154700981000076 42.66451796500007),corsica_t1.31,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">031</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6645179652 Longitude : 9.1547009815</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.15470098100009 42.66451796500007),,geonode:corsica_t1
+geonode_corsica_t1.32,32,POINT (9.222250991000067 42.662862036000035),corsica_t1.32,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">032</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6628620364 Longitude : 9.2222509906</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.222250991000067 42.66286203600003),,geonode:corsica_t1
+geonode_corsica_t1.33,33,POINT (9.35341201700004 42.62442598100006),corsica_t1.33,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">033</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6244259812 Longitude : 9.3534120172</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.35341201700004 42.62442598100006),,geonode:corsica_t1
+geonode_corsica_t1.34,34,POINT (9.317796975000022 42.69213600100005),corsica_t1.34,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">034</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6921360008 Longitude : 9.3177969754</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.317796975000022 42.69213600100004),,geonode:corsica_t1
+geonode_corsica_t1.35,35,POINT (9.332164982000052 42.69544601400003),corsica_t1.35,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">035</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6954460144 Longitude : 9.3321649823</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.332164982000052 42.69544601400003),,geonode:corsica_t1
+geonode_corsica_t1.36,36,POINT (9.346382031000076 42.74562402600003),corsica_t1.36,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">036</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.7456240263 Longitude : 9.3463820312</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.346382031000076 42.745624026000044),,geonode:corsica_t1
+geonode_corsica_t1.37,37,POINT (9.314458966000075 42.83139998100006),corsica_t1.37,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">037</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.8313999809 Longitude : 9.3144589663</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.31445896600006 42.83139998100006),,geonode:corsica_t1
+geonode_corsica_t1.38,38,POINT (9.357126038000047 42.917954028000054),corsica_t1.38,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">038</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.9179540277 Longitude : 9.3571260385</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.357126038000047 42.917954028000054),,geonode:corsica_t1
+geonode_corsica_t1.39,39,POINT (9.35457400000007 42.953871992000074),corsica_t1.39,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">039</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.9538719915 Longitude : 9.3545740005</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.35457400000007 42.953871992000074),,geonode:corsica_t1
+geonode_corsica_t1.40,40,POINT (9.369906010000022 42.97003598900005),corsica_t1.40,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">040</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.9700359888 Longitude : 9.3699060101</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.369906010000022 42.97003598900007),,geonode:corsica_t1
+geonode_corsica_t1.41,41,POINT (9.472899986000073 42.87755199700007),corsica_t1.41,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">041</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.8775519971 Longitude : 9.4728999864</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.472899986000073 42.87755199700007),,geonode:corsica_t1
+geonode_corsica_t1.42,42,POINT (9.485439984000038 42.83225501900006),corsica_t1.42,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">042</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.8322550189 Longitude : 9.4854399841</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.485439984000038 42.83225501900007),,geonode:corsica_t1
+geonode_corsica_t1.43,43,POINT (9.390787007000029 42.67849202300005),corsica_t1.43,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">043</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.6784920227 Longitude : 9.3907870073</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.390787007000029 42.67849202300005),,geonode:corsica_t1
+geonode_corsica_t1.44,44,POINT (9.532169010000075 42.51405601400006),corsica_t1.44,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">044</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.5140560139 Longitude : 9.5321690105</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.532169010000075 42.514056014000055),,geonode:corsica_t1
+geonode_corsica_t1.45,45,POINT (9.548918987000036 42.26540803000006),corsica_t1.45,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">045</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.2654080298 Longitude : 9.5489189867</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.548918987000036 42.26540803000007),,geonode:corsica_t1
+geonode_corsica_t1.46,46,POINT (9.528865032000056 42.17327800600003),corsica_t1.46,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">046</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.1732780058 Longitude : 9.5288650319</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.52886503200007 42.173278006000025),,geonode:corsica_t1
+geonode_corsica_t1.47,47,POINT (9.386814749000052 42.18194956200006),corsica_t1.47,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">047</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.1810760256 Longitude : 9.3877779879</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.386814749000052 42.18194956200006),,geonode:corsica_t1
+geonode_corsica_t1.48,48,POINT (9.49170403200003 42.11766701200003),corsica_t1.48,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">048</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 42.1176670119 Longitude : 9.4917040318</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.491704032000015 42.11766701200002),,geonode:corsica_t1
+geonode_corsica_t1.49,49,POINT (9.438228998000056 41.988182031000065),corsica_t1.49,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">049</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.9881820306 Longitude : 9.4382289983</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.438228998000056 41.988182031000065),,geonode:corsica_t1
+geonode_corsica_t1.50,50,POINT (9.369882038000071 41.89582795800004),corsica_t1.50,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">050</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.8958279584 Longitude : 9.3698820379</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.369882038000071 41.89582795800004),,geonode:corsica_t1
+geonode_corsica_t1.51,51,POINT (9.395483974000058 41.80387697200007),corsica_t1.51,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">051</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.8038769718 Longitude : 9.3954839744</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.395483974000058 41.80387697200006),,geonode:corsica_t1
+geonode_corsica_t1.52,52,POINT (9.397308966000026 41.77928203700003),corsica_t1.52,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">052</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.7792820372 Longitude : 9.3973089661</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.397308966000026 41.77928203700003),,geonode:corsica_t1
+geonode_corsica_t1.53,53,POINT (9.24329803300003 41.490610968000055),corsica_t1.53,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">053</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.4906109683 Longitude : 9.2432980333</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.24329803300003 41.49061096800005),,geonode:corsica_t1
+geonode_corsica_t1.54,54,POINT (9.167300994000072 41.40110800000008),corsica_t1.54,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">054</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.4011080004 Longitude : 9.1673009936</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.167300994000072 41.40110800000008),,geonode:corsica_t1
+geonode_corsica_t1.55,55,POINT (9.238083987000039 41.41581396600003),corsica_t1.55,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">055</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.4158139657 Longitude : 9.2380839866</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.238083987000053 41.41581396600003),,geonode:corsica_t1
+geonode_corsica_t1.56,56,POINT (9.111322034000068 41.454248009000025),corsica_t1.56,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">056</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.4542480092 Longitude : 9.1113220342</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (9.111322034000068 41.454248009000025),,geonode:corsica_t1
+geonode_corsica_t1.57,57,POINT (8.970614020000028 41.49229003100004),corsica_t1.57,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">057</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.4922900312 Longitude : 8.9706140198</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.970614020000028 41.492290031000046),,geonode:corsica_t1
+geonode_corsica_t1.58,58,POINT (8.946520993000036 41.58039498100004),corsica_t1.58,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">058</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.5803949814 Longitude : 8.9465209935</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.946520993000021 41.58039498100004),,geonode:corsica_t1
+geonode_corsica_t1.59,59,POINT (8.906831006000061 41.701375013000074),corsica_t1.59,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">059</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.7013750132 Longitude : 8.9068310056</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.906831006000061 41.701375013000074),,geonode:corsica_t1
+geonode_corsica_t1.60,60,POINT (8.969711959000051 41.92682599600005),corsica_t1.60,true,true,,,"<h4>corsica_t1</h4>
+
+<ul class=""textattributes"">
+  
+  <li><strong><span class=""atr-name"">OID_</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">Name</span>:</strong> <span class=""atr-value"">060</span></li>
+  <li><strong><span class=""atr-name"">FolderPath</span>:</strong> <span class=""atr-value"">Corsica_T1.kml/Corsica_T1</span></li>
+  <li><strong><span class=""atr-name"">SymbolID</span>:</strong> <span class=""atr-value"">0</span></li>
+  <li><strong><span class=""atr-name"">AltMode</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">Base</span>:</strong> <span class=""atr-value"">0.0</span></li>
+  
+  <li><strong><span class=""atr-name"">PopupInfo</span>:</strong> <span class=""atr-value"">Latitude: 41.9268259965 Longitude : 8.9697119594</span></li>
+  <li><strong><span class=""atr-name"">HasLabel</span>:</strong> <span class=""atr-value"">-1</span></li>
+  <li><strong><span class=""atr-name"">LabelID</span>:</strong> <span class=""atr-value"">0</span></li>
+</ul>",POINT (8.969711959000051 41.92682599600005),,geonode:corsica_t1
