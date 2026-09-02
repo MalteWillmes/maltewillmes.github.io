@@ -176,7 +176,6 @@ author_profile: false
   }
 </style>
 
-
 {% include base_path %}
 
 <div id="zotero-publications">
@@ -189,10 +188,10 @@ document.addEventListener("DOMContentLoaded", async function () {
   const zoteroUserID = "10108379";
   const container = document.getElementById("zotero-publications");
 
-  // Keep Zotero results newest -> oldest for display
   const apiURL =
     `https://api.zotero.org/users/${zoteroUserID}/publications/items` +
     `?format=json&sort=date&direction=desc&limit=100&v=3`;
+
 
   function escapeHTML(value) {
     if (!value) return "";
@@ -230,11 +229,9 @@ document.addEventListener("DOMContentLoaded", async function () {
       .map(name => name.charAt(0).toUpperCase() + ".")
       .join(" ");
 
-    let formatted = escapeHTML(
-      lastName + (initials ? ", " + initials : "")
-    );
+    let formatted =
+      escapeHTML(lastName + (initials ? ", " + initials : ""));
 
-    // Bold your own name
     if (lastName.toLowerCase() === "willmes") {
       formatted = `<strong>${formatted}</strong>`;
     }
@@ -247,14 +244,13 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     if (!creators || creators.length === 0) return "";
 
-    const authors = creators
+    return creators
       .filter(c =>
         !c.creatorType ||
         ["author", "editor", "bookAuthor"].includes(c.creatorType)
       )
-      .map(formatCreator);
-
-    return authors.join(", ");
+      .map(formatCreator)
+      .join(", ");
   }
 
 
@@ -274,7 +270,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
   function getVenueDetails(item) {
 
-    let parts = [];
+    const parts = [];
 
     const venue = getVenue(item);
 
@@ -318,7 +314,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   }
 
 
-  function publicationHTML(item, publicationNumber) {
+  function publicationHTML(item) {
 
     const title = escapeHTML(item.title || "Untitled");
     const authors = formatAuthors(item.creators);
@@ -330,10 +326,14 @@ document.addEventListener("DOMContentLoaded", async function () {
     const abstract = escapeHTML(item.abstractNote || "");
 
     const doi = item.DOI
-      ? `https://doi.org/${encodeURIComponent(item.DOI.trim())}`
+      ? `https://doi.org/${item.DOI.trim()}`
       : "";
 
-    const itemURL = item.url || "";
+    const itemURL = item.url
+      ? escapeHTML(item.url)
+      : "";
+
+    const number = item.publicationNumber;
 
     let buttons = "";
 
@@ -382,7 +382,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
       buttons += `
         <a class="meta-btn doi-btn"
-           href="${escapeHTML(itemURL)}"
+           href="${itemURL}"
            target="_blank"
            rel="noopener noreferrer"
            style="text-decoration:none;">
@@ -392,10 +392,8 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
 
 
-    // value="" lets every publication retain its chronological number
-    // even though the list is displayed newest -> oldest.
     return `
-      <li value="${publicationNumber}">
+      <li value="${number}">
 
         <span class="paper-title">
           ${title}
@@ -429,18 +427,15 @@ document.addEventListener("DOMContentLoaded", async function () {
   try {
 
     const response = await fetch(apiURL, {
-
       headers: {
         "Zotero-API-Version": "3"
       }
-
     });
 
 
     if (!response.ok) {
-
       throw new Error(
-        `Zotero API returned ${response.status}`
+        `Zotero API returned HTTP ${response.status}`
       );
     }
 
@@ -448,8 +443,10 @@ document.addEventListener("DOMContentLoaded", async function () {
     const results = await response.json();
 
 
-    // Remove attachments, notes, etc.
-    // Order remains newest -> oldest.
+    /*
+      Zotero returns newest -> oldest because direction=desc.
+    */
+
     const items = results
       .map(result => result.data || result)
       .filter(item =>
@@ -469,43 +466,31 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
     /*
-      -----------------------------------------------------
-      CREATE PUBLICATION NUMBERS
-      -----------------------------------------------------
+      NUMBERING
 
-      Zotero returned the papers newest -> oldest.
+      The array is:
 
-      We reverse a COPY of that array only for assigning
-      publication numbers.
-
-      Therefore:
-
-      oldest publication = 1
-      next oldest        = 2
+      newest
       ...
-      newest publication = highest number
+      oldest
 
-      The actual display order remains newest -> oldest.
+      So if there are 50 papers:
+
+      newest = 50
+      ...
+      oldest = 1
     */
 
-    const publicationNumbers = new Map();
+    const totalPublications = items.length;
 
-    [...items]
-      .reverse()
-      .forEach((item, index) => {
-
-        publicationNumbers.set(
-          item,
-          index + 1
-        );
-
-      });
+    items.forEach((item, index) => {
+      item.publicationNumber =
+        totalPublications - index;
+    });
 
 
     /*
-      -----------------------------------------------------
-      GROUP PUBLICATIONS BY YEAR
-      -----------------------------------------------------
+      GROUP BY YEAR
     */
 
     const publicationsByYear = {};
@@ -525,9 +510,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
     /*
-      -----------------------------------------------------
-      SORT YEARS NEWEST -> OLDEST
-      -----------------------------------------------------
+      YEARS NEWEST -> OLDEST
     */
 
     const years = Object
@@ -543,9 +526,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
     /*
-      -----------------------------------------------------
-      BUILD PUBLICATION LIST
-      -----------------------------------------------------
+      BUILD PAGE
     */
 
     let html = "";
@@ -563,19 +544,13 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
       publicationsByYear[year].forEach(item => {
-
-        const publicationNumber =
-          publicationNumbers.get(item);
-
-        html += publicationHTML(
-          item,
-          publicationNumber
-        );
-
+        html += publicationHTML(item);
       });
 
 
-      html += "</ol>";
+      html += `
+        </ol>
+      `;
 
     });
 
@@ -584,117 +559,91 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
     /*
-      -----------------------------------------------------
-      JOURNAL / VENUE BUTTONS
-      -----------------------------------------------------
+      VENUE BUTTONS
     */
 
     container
       .querySelectorAll(".venue-btn")
       .forEach(button => {
 
-        button.addEventListener(
-          "click",
-          function () {
+        button.addEventListener("click", function () {
 
-            const parent =
-              this.closest("li");
+          const parent = this.closest("li");
 
-            const detailsBox =
-              parent.querySelector(
-                ".details-info"
-              );
+          const detailsBox =
+            parent.querySelector(".details-info");
 
-            const abstractBox =
-              parent.querySelector(
-                ".abstract-info"
-              );
+          const abstractBox =
+            parent.querySelector(".abstract-info");
 
 
-            if (abstractBox) {
-              abstractBox.style.display = "none";
-            }
+          if (abstractBox) {
+            abstractBox.style.display = "none";
+          }
 
 
-            const content =
-              this.getAttribute("data-full");
+          const content =
+            this.getAttribute("data-full");
 
 
-            if (
-              detailsBox.style.display === "block"
-            ) {
+          if (detailsBox.style.display === "block") {
 
-              detailsBox.style.display = "none";
+            detailsBox.style.display = "none";
 
-            } else {
+          } else {
 
-              detailsBox.innerHTML =
-                `<strong>Published in:</strong> ${content}`;
+            detailsBox.innerHTML =
+              `<strong>Published in:</strong> ${content}`;
 
-              detailsBox.style.display =
-                "block";
-            }
+            detailsBox.style.display = "block";
 
           }
-        );
+
+        });
 
       });
 
 
     /*
-      -----------------------------------------------------
       ABSTRACT BUTTONS
-      -----------------------------------------------------
     */
 
     container
       .querySelectorAll(".abstract-btn")
       .forEach(button => {
 
-        button.addEventListener(
-          "click",
-          function () {
+        button.addEventListener("click", function () {
 
-            const parent =
-              this.closest("li");
+          const parent = this.closest("li");
 
-            const abstractBox =
-              parent.querySelector(
-                ".abstract-info"
-              );
+          const abstractBox =
+            parent.querySelector(".abstract-info");
 
-            const detailsBox =
-              parent.querySelector(
-                ".details-info"
-              );
+          const detailsBox =
+            parent.querySelector(".details-info");
 
 
-            if (detailsBox) {
-              detailsBox.style.display =
-                "none";
-            }
-
-
-            abstractBox.style.display =
-              abstractBox.style.display === "block"
-                ? "none"
-                : "block";
-
+          if (detailsBox) {
+            detailsBox.style.display = "none";
           }
-        );
+
+
+          abstractBox.style.display =
+            abstractBox.style.display === "block"
+              ? "none"
+              : "block";
+
+        });
 
       });
 
-  }
 
-
-  catch (error) {
+  } catch (error) {
 
     console.error(
       "Could not load Zotero publications:",
       error
     );
-
 
     container.innerHTML = `
       <p style="color: var(--port-muted);">
