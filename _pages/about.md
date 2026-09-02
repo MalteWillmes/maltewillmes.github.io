@@ -414,32 +414,6 @@ redirect_from:
 </div>
 
 
-<h2 class="section-title">
-  Research Interests
-</h2>
-
-
-<div class="interest-pills">
-
-  <span class="pill">
-    Fish ecology
-  </span>
-
-  <span class="pill">
-    Otoliths, Scales, Finrays
-  </span>
-
-  <span class="pill">
-    Isotopes
-  </span>
-
-  <span class="pill">
-    Deep learning
-  </span>
-
-</div>
-
-
 
 <h2 class="section-title">
   Data &amp; Tools
