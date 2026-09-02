@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Presentations"
+title: "PRESENTATIONS"
 permalink: /presentations/
 author_profile: false
 ---
@@ -25,15 +25,13 @@ author_profile: false
 
 
 /* =========================================
-   PAGE INTRO
+   INTRO
    ========================================= */
 
 .presentations-intro {
   max-width: 780px;
   margin-bottom: 25px;
-
   color: var(--pres-text);
-
   font-size: 0.94em;
   line-height: 1.65;
 }
@@ -47,103 +45,127 @@ author_profile: false
   margin: 20px 0 36px 0;
 }
 
+
 #presentation-map {
   width: 100%;
   height: 440px;
-
   border: 1px solid var(--pres-border);
   border-radius: 7px;
-
   background: #f5f5f5;
 }
 
+
+/*
+ * Muted OpenStreetMap styling.
+ * This keeps the normal OSM tiles but makes
+ * them look closer to a Toner Lite basemap.
+ */
+
+#presentation-map .leaflet-tile-pane {
+  filter:
+    grayscale(100%)
+    brightness(1.12)
+    contrast(0.82);
+}
+
+
 .map-caption {
   margin-top: 7px;
-
   color: var(--pres-muted);
-
   font-size: 0.72em;
   line-height: 1.4;
 }
 
 
-/* Leaflet typography */
+/* =========================================
+   LEAFLET
+   ========================================= */
 
 .leaflet-container {
   font-family: inherit;
 }
 
+
 .leaflet-popup-content-wrapper {
   border-radius: 5px;
 }
 
+
 .leaflet-popup-content {
   min-width: 220px;
-
   margin: 14px 16px;
-
   color: var(--pres-text);
-
   font-family: inherit;
-
   line-height: 1.4;
 }
 
+
 .map-popup-location {
-  margin-bottom: 8px;
-
+  margin-bottom: 7px;
   color: var(--pres-primary);
-
   font-size: 1em;
   font-weight: 700;
 }
 
+
 .map-popup-count {
-  margin-bottom: 9px;
-
+  margin-bottom: 7px;
   color: var(--pres-muted);
-
-  font-size: 0.76em;
+  font-size: 0.74em;
 }
+
 
 .map-popup-talk {
   padding: 8px 0;
-
   border-top: 1px solid var(--pres-border);
 }
+
 
 .map-popup-talk:first-of-type {
   border-top: 0;
 }
 
+
 .map-popup-title {
   color: var(--pres-primary);
-
   font-size: 0.86em;
   font-weight: 700;
-
   line-height: 1.35;
 }
 
+
 .map-popup-meta {
   margin-top: 2px;
-
   color: var(--pres-muted);
-
-  font-size: 0.75em;
+  font-size: 0.74em;
+  line-height: 1.4;
 }
+
 
 .map-popup-link {
   display: inline-block;
-
   margin-top: 4px;
-
   color: var(--pres-accent) !important;
-
-  font-size: 0.74em;
+  font-size: 0.73em;
   font-weight: 600;
-
   text-decoration: none !important;
+}
+
+
+/* =========================================
+   YEAR HEADINGS
+   ========================================= */
+
+.presentation-section-title {
+  margin-top: 34px;
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--pres-border);
+  color: var(--pres-primary) !important;
+  font-size: 1.05em !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 
@@ -151,34 +173,11 @@ author_profile: false
    PRESENTATION LIST
    ========================================= */
 
-.presentation-section-title {
-  margin-top: 34px;
-  margin-bottom: 12px;
-
-  padding-bottom: 6px;
-
-  border-bottom: 1px solid var(--pres-border);
-
-  color: var(--pres-primary) !important;
-
-  font-size: 1.05em !important;
-  font-weight: 700;
-
-  letter-spacing: 0.08em;
-
-  text-transform: uppercase;
-}
-
-
 .presentation-entry {
   display: grid;
-
   grid-template-columns: 90px 1fr;
-
   gap: 18px;
-
-  padding: 13px 0;
-
+  padding: 12px 0;
   border-bottom: 1px solid var(--pres-border);
 }
 
@@ -190,12 +189,9 @@ author_profile: false
 
 .presentation-date {
   padding-top: 2px;
-
   color: var(--pres-muted);
-
   font-size: 0.78em;
   font-weight: 600;
-
   white-space: nowrap;
 }
 
@@ -207,57 +203,46 @@ author_profile: false
 
 .presentation-title {
   margin: 0 0 3px 0;
-
   color: var(--pres-primary);
-
   font-size: 0.94em;
   font-weight: 700;
-
   line-height: 1.35;
 }
 
 
 .presentation-event {
   color: var(--pres-text);
-
   font-size: 0.84em;
-
   line-height: 1.45;
 }
 
 
 .presentation-location {
   margin-top: 2px;
-
   color: var(--pres-muted);
-
   font-size: 0.78em;
 }
 
 
+/* =========================================
+   TAGS / BUTTONS
+   ========================================= */
+
 .presentation-meta {
   display: flex;
-
   flex-wrap: wrap;
-
   gap: 5px;
-
-  margin-top: 7px;
+  margin-top: 6px;
 }
 
 
 .presentation-type {
   display: inline-block;
-
   padding: 2px 7px;
-
   border: 1px solid var(--pres-border);
   border-radius: 3px;
-
   background: var(--pres-bg);
-
   color: var(--pres-muted);
-
   font-size: 0.68em;
   font-weight: 600;
 }
@@ -265,44 +250,36 @@ author_profile: false
 
 .presentation-link {
   display: inline-block;
-
   padding: 2px 7px;
-
   border: 1px solid #d0e3f7;
   border-radius: 3px;
-
   background: #f0f7ff;
-
   color: var(--pres-accent) !important;
-
   font-size: 0.68em;
   font-weight: 600;
-
   text-decoration: none !important;
+  transition: all 0.15s ease;
 }
 
 
 .presentation-link:hover {
   background: var(--pres-accent);
-
   border-color: var(--pres-accent);
-
   color: #ffffff !important;
 }
 
 
 /* =========================================
-   OPTIONAL MARKDOWN BODY
+   OPTIONAL MARKDOWN DESCRIPTION
    ========================================= */
 
 .presentation-description {
   margin-top: 8px;
-
   color: var(--pres-muted);
-
-  font-size: 0.8em;
+  font-size: 0.80em;
   line-height: 1.5;
 }
+
 
 .presentation-description p {
   margin: 0;
@@ -319,13 +296,13 @@ author_profile: false
     height: 340px;
   }
 
+
   .presentation-entry {
     grid-template-columns: 1fr;
-
     gap: 2px;
-
     padding: 14px 0;
   }
+
 
   .presentation-date {
     margin-bottom: 2px;
@@ -352,6 +329,11 @@ author_profile: false
 
 {% if presentations_sorted.size > 0 %}
 
+
+<!-- =========================================
+     MAP
+     ========================================= -->
+
 <div class="presentation-map-wrapper">
 
   <div
@@ -377,7 +359,9 @@ author_profile: false
 
 {% assign current_year = "" %}
 
+
 {% for talk in presentations_sorted %}
+
 
   {% assign talk_year = talk.date | date: "%Y" %}
 
@@ -421,12 +405,14 @@ author_profile: false
       {% if talk.location %}
 
       <div class="presentation-location">
+
         <i
           class="fas fa-map-marker-alt"
           aria-hidden="true"
         ></i>
 
         {{ talk.location | escape }}
+
       </div>
 
       {% endif %}
@@ -476,6 +462,7 @@ author_profile: false
 
   </article>
 
+
 {% endfor %}
 
 </div>
@@ -483,11 +470,40 @@ author_profile: false
 
 {% else %}
 
+
 <p>
   No presentations have been added yet.
 </p>
 
+
 {% endif %}
+
+
+
+<!-- =========================================
+     HIDDEN PRESENTATION DATA FOR MAP
+     ========================================= -->
+
+<div id="presentation-data" style="display: none;">
+
+  {% for talk in presentations_sorted %}
+
+  <div
+    class="presentation-data-item"
+    data-title="{{ talk.title | escape }}"
+    data-date="{{ talk.date | date: '%Y-%m-%d' }}"
+    data-year="{{ talk.date | date: '%Y' }}"
+    data-event="{{ talk.event | default: '' | escape }}"
+    data-type="{{ talk.type | default: '' | escape }}"
+    data-location="{{ talk.location | default: '' | escape }}"
+    data-latitude="{{ talk.latitude }}"
+    data-longitude="{{ talk.longitude }}"
+    data-link="{{ talk.link | default: '' | escape }}"
+  ></div>
+
+  {% endfor %}
+
+</div>
 
 
 
@@ -520,57 +536,62 @@ document.addEventListener(
     }
 
 
-    /*
-     * ----------------------------------------
-     * PRESENTATION DATA FROM JEKYLL
-     * ----------------------------------------
-     */
 
-    const presentations = [
+    /* ======================================
+       PRESENTATION DATA
+       ====================================== */
 
-      {% for talk in presentations_sorted %}
-
-      {
-        title:
-          {{ talk.title | jsonify }},
-
-        date:
-          {{ talk.date | date: "%Y-%m-%d" | jsonify }},
-
-        year:
-          {{ talk.date | date: "%Y" | jsonify }},
-
-        event:
-          {{ talk.event | default: "" | jsonify }},
-
-        type:
-          {{ talk.type | default: "" | jsonify }},
-
-        location:
-          {{ talk.location | default: "" | jsonify }},
-
-        latitude:
-          {{ talk.latitude | jsonify }},
-
-        longitude:
-          {{ talk.longitude | jsonify }},
-
-        link:
-          {{ talk.link | default: "" | jsonify }}
-      }
-
-      {% unless forloop.last %},{% endunless %}
-
-      {% endfor %}
-
-    ];
+    const presentationElements =
+      document.querySelectorAll(
+        ".presentation-data-item"
+      );
 
 
-    /*
-     * ----------------------------------------
-     * HELPER
-     * ----------------------------------------
-     */
+    const presentations =
+      Array.from(
+        presentationElements
+      ).map(
+        function (element) {
+
+          return {
+
+            title:
+              element.dataset.title || "",
+
+            date:
+              element.dataset.date || "",
+
+            year:
+              element.dataset.year || "",
+
+            event:
+              element.dataset.event || "",
+
+            type:
+              element.dataset.type || "",
+
+            location:
+              element.dataset.location || "",
+
+            latitude:
+              element.dataset.latitude || "",
+
+            longitude:
+              element.dataset.longitude || "",
+
+            link:
+              element.dataset.link || ""
+
+          };
+
+        }
+      );
+
+
+
+    /* ======================================
+       HTML ESCAPING
+       ====================================== */
 
     function escapeHTML(value) {
 
@@ -612,46 +633,46 @@ document.addEventListener(
     }
 
 
-    /*
-     * ----------------------------------------
-     * INITIALIZE MAP
-     * ----------------------------------------
-     */
 
-    const map = L.map(
-      "presentation-map",
-      {
-        scrollWheelZoom: false,
-        worldCopyJump: true
-      }
-    );
+    /* ======================================
+       INITIALIZE MAP
+       ====================================== */
+
+    const map =
+      L.map(
+        "presentation-map",
+        {
+          scrollWheelZoom: false,
+          worldCopyJump: true
+        }
+      );
 
 
-    /*
-     * OpenStreetMap base layer
-     */
+
+    /* ======================================
+       OPENSTREETMAP BASEMAP
+       ====================================== */
 
     L.tileLayer(
       "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
       {
-
+        minZoom: 0,
         maxZoom: 19,
 
         attribution:
-          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-
+          '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'
       }
     ).addTo(map);
 
 
-    /*
-     * ----------------------------------------
-     * GROUP TALKS AT IDENTICAL COORDINATES
-     * ----------------------------------------
-     */
+
+    /* ======================================
+       GROUP TALKS AT IDENTICAL LOCATIONS
+       ====================================== */
 
     const locationGroups =
       new Map();
+
 
 
     presentations.forEach(
@@ -670,6 +691,22 @@ document.addEventListener(
           );
 
 
+        /*
+         * Skip virtual presentations,
+         * missing coordinates,
+         * and invalid coordinates.
+         */
+
+        if (
+          talk.latitude === "" ||
+          talk.longitude === "" ||
+          talk.latitude === "NA" ||
+          talk.longitude === "NA"
+        ) {
+          return;
+        }
+
+
         if (
           !Number.isFinite(latitude) ||
           !Number.isFinite(longitude)
@@ -678,11 +715,21 @@ document.addEventListener(
         }
 
 
+        if (
+          latitude < -90 ||
+          latitude > 90 ||
+          longitude < -180 ||
+          longitude > 180
+        ) {
+          return;
+        }
+
+
+
         /*
-         * Five decimal places is much more
-         * precise than needed for a city/venue
-         * presentation map while allowing exact
-         * repeated locations to group together.
+         * Coordinates are rounded to five
+         * decimal places so repeated talks
+         * at the same location share a marker.
          */
 
         const key =
@@ -691,9 +738,11 @@ document.addEventListener(
           longitude.toFixed(5);
 
 
+
         if (
           !locationGroups.has(key)
         ) {
+
 
           locationGroups.set(
             key,
@@ -708,6 +757,7 @@ document.addEventListener(
         }
 
 
+
         locationGroups
           .get(key)
           .talks
@@ -718,13 +768,14 @@ document.addEventListener(
     );
 
 
-    /*
-     * ----------------------------------------
-     * ADD MAP MARKERS
-     * ----------------------------------------
-     */
 
-    const markerLocations = [];
+    /* ======================================
+       ADD MAP MARKERS
+       ====================================== */
+
+    const markerLocations =
+      [];
+
 
 
     locationGroups.forEach(
@@ -735,9 +786,10 @@ document.addEventListener(
           group.talks.length;
 
 
+
         /*
-         * Slightly larger marker for places
-         * with multiple presentations.
+         * Larger marker for locations with
+         * multiple presentations.
          */
 
         const radius =
@@ -746,6 +798,7 @@ document.addEventListener(
             count * 1.5,
             8
           );
+
 
 
         const marker =
@@ -759,10 +812,11 @@ document.addEventListener(
               color: "#2c3e50",
               weight: 1.5,
               fillColor: "#3172b4",
-              fillOpacity: 0.78
+              fillOpacity: 0.82
             }
           )
           .addTo(map);
+
 
 
         markerLocations.push(
@@ -773,9 +827,10 @@ document.addEventListener(
         );
 
 
-        /*
-         * Newest first inside each popup.
-         */
+
+        /* ==================================
+           SORT POPUP TALKS NEWEST FIRST
+           ================================== */
 
         group.talks.sort(
           function (a, b) {
@@ -788,6 +843,11 @@ document.addEventListener(
         );
 
 
+
+        /* ==================================
+           POPUP CONTENT
+           ================================== */
+
         let popupHTML = `
 
           <div class="map-popup-location">
@@ -796,12 +856,15 @@ document.addEventListener(
 
           <div class="map-popup-count">
             ${count}
-            ${count === 1
-              ? "presentation"
-              : "presentations"}
+            ${
+              count === 1
+                ? "presentation"
+                : "presentations"
+            }
           </div>
 
         `;
+
 
 
         group.talks.forEach(
@@ -817,6 +880,7 @@ document.addEventListener(
                 </div>
 
                 <div class="map-popup-meta">
+
                   ${escapeHTML(talk.year)}
 
                   ${
@@ -827,12 +891,15 @@ document.addEventListener(
                         )
                       : ""
                   }
+
                 </div>
 
             `;
 
 
+
             if (talk.link) {
+
 
               popupHTML += `
 
@@ -850,6 +917,7 @@ document.addEventListener(
             }
 
 
+
             popupHTML += `
               </div>
             `;
@@ -859,12 +927,14 @@ document.addEventListener(
         );
 
 
+
         marker.bindPopup(
           popupHTML,
           {
-            maxWidth: 320
+            maxWidth: 340
           }
         );
+
 
 
         marker.bindTooltip(
@@ -882,18 +952,19 @@ document.addEventListener(
     );
 
 
-    /*
-     * ----------------------------------------
-     * AUTOMATIC MAP EXTENT
-     * ----------------------------------------
-     */
+
+    /* ======================================
+       AUTOMATIC MAP EXTENT
+       ====================================== */
+
 
     if (
       markerLocations.length === 0
     ) {
 
+
       /*
-       * Fallback world view.
+       * Fallback global view
        */
 
       map.setView(
@@ -902,7 +973,10 @@ document.addEventListener(
       );
 
 
-    } else if (
+    }
+
+
+    else if (
       markerLocations.length === 1
     ) {
 
@@ -913,7 +987,10 @@ document.addEventListener(
       );
 
 
-    } else {
+    }
+
+
+    else {
 
 
       const bounds =
@@ -925,11 +1002,8 @@ document.addEventListener(
       map.fitBounds(
         bounds,
         {
-          padding:
-            [30, 30],
-
-          maxZoom:
-            5
+          padding: [30, 30],
+          maxZoom: 5
         }
       );
 
