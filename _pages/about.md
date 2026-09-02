@@ -414,20 +414,6 @@ redirect_from:
 </div>
 
 
-<div
-  class="collab-box"
-  style="text-align: justify; text-justify: inter-word;"
->
-  <i
-    class="fas fa-lightbulb"
-    style="color: #64748b; margin-right: 8px;"
-  ></i>
-
-  I am actively seeking collaborative research opportunities.
-</div>
-
-
-
 <h2 class="section-title">
   Research Interests
 </h2>
