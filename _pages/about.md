@@ -569,8 +569,6 @@ redirect_from:
 
   </div>
 
-
-</div>
 <!-- BandTracer -->
 
 <div class="tool-card">
@@ -602,4 +600,5 @@ redirect_from:
 
   </div>
 
+</div>
 </div>
