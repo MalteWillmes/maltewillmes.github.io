@@ -179,8 +179,6 @@ author_profile: false
 
 {% include base_path %}
 
-{% include base_path %}
-
 <div id="zotero-publications">
   <p style="color: var(--port-muted);">Loading publications from Zotero...</p>
 </div>
@@ -191,12 +189,14 @@ document.addEventListener("DOMContentLoaded", async function () {
   const zoteroUserID = "10108379";
   const container = document.getElementById("zotero-publications");
 
+  // Keep Zotero results newest -> oldest for display
   const apiURL =
     `https://api.zotero.org/users/${zoteroUserID}/publications/items` +
     `?format=json&sort=date&direction=desc&limit=100&v=3`;
 
   function escapeHTML(value) {
     if (!value) return "";
+
     return String(value)
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
@@ -205,13 +205,18 @@ document.addEventListener("DOMContentLoaded", async function () {
       .replace(/'/g, "&#039;");
   }
 
+
   function getYear(date) {
     if (!date) return "Undated";
+
     const match = String(date).match(/\b(18|19|20|21)\d{2}\b/);
+
     return match ? match[0] : "Undated";
   }
 
+
   function formatCreator(creator) {
+
     if (creator.name) {
       return escapeHTML(creator.name);
     }
@@ -229,6 +234,7 @@ document.addEventListener("DOMContentLoaded", async function () {
       lastName + (initials ? ", " + initials : "")
     );
 
+    // Bold your own name
     if (lastName.toLowerCase() === "willmes") {
       formatted = `<strong>${formatted}</strong>`;
     }
@@ -236,7 +242,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     return formatted;
   }
 
+
   function formatAuthors(creators) {
+
     if (!creators || creators.length === 0) return "";
 
     const authors = creators
@@ -249,7 +257,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     return authors.join(", ");
   }
 
+
   function getVenue(item) {
+
     return (
       item.publicationTitle ||
       item.proceedingsTitle ||
@@ -261,13 +271,19 @@ document.addEventListener("DOMContentLoaded", async function () {
     );
   }
 
+
   function getVenueDetails(item) {
+
     let parts = [];
 
     const venue = getVenue(item);
-    if (venue) parts.push(venue);
+
+    if (venue) {
+      parts.push(venue);
+    }
 
     if (item.volume) {
+
       let volume = item.volume;
 
       if (item.issue) {
@@ -284,7 +300,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     return parts.join(", ");
   }
 
+
   function getItemTypeLabel(type) {
+
     const labels = {
       journalArticle: "Journal article",
       conferencePaper: "Conference paper",
@@ -299,7 +317,8 @@ document.addEventListener("DOMContentLoaded", async function () {
     return labels[type] || "Publication";
   }
 
-  function publicationHTML(item) {
+
+  function publicationHTML(item, publicationNumber) {
 
     const title = escapeHTML(item.title || "Untitled");
     const authors = formatAuthors(item.creators);
@@ -318,7 +337,9 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     let buttons = "";
 
+
     if (venue) {
+
       buttons += `
         <span class="meta-btn venue-btn"
               data-full="${venueDetails}">
@@ -327,13 +348,16 @@ document.addEventListener("DOMContentLoaded", async function () {
       `;
     }
 
+
     buttons += `
       <span class="impact-badge">
         ${getItemTypeLabel(item.itemType)}
       </span>
     `;
 
+
     if (abstract) {
+
       buttons += `
         <span class="meta-btn abstract-btn">
           Abstract
@@ -341,7 +365,9 @@ document.addEventListener("DOMContentLoaded", async function () {
       `;
     }
 
+
     if (doi) {
+
       buttons += `
         <a class="meta-btn doi-btn"
            href="${doi}"
@@ -351,7 +377,9 @@ document.addEventListener("DOMContentLoaded", async function () {
           DOI
         </a>
       `;
+
     } else if (itemURL) {
+
       buttons += `
         <a class="meta-btn doi-btn"
            href="${escapeHTML(itemURL)}"
@@ -363,8 +391,11 @@ document.addEventListener("DOMContentLoaded", async function () {
       `;
     }
 
+
+    // value="" lets every publication retain its chronological number
+    // even though the list is displayed newest -> oldest.
     return `
-      <li>
+      <li value="${publicationNumber}">
 
         <span class="paper-title">
           ${title}
@@ -394,22 +425,31 @@ document.addEventListener("DOMContentLoaded", async function () {
     `;
   }
 
+
   try {
 
     const response = await fetch(apiURL, {
+
       headers: {
         "Zotero-API-Version": "3"
       }
+
     });
 
+
     if (!response.ok) {
+
       throw new Error(
         `Zotero API returned ${response.status}`
       );
     }
 
+
     const results = await response.json();
 
+
+    // Remove attachments, notes, etc.
+    // Order remains newest -> oldest.
     const items = results
       .map(result => result.data || result)
       .filter(item =>
@@ -418,15 +458,61 @@ document.addEventListener("DOMContentLoaded", async function () {
         item.itemType !== "annotation"
       );
 
+
     if (items.length === 0) {
+
       container.innerHTML =
         "<p>No publications found in Zotero My Publications.</p>";
+
       return;
     }
 
+
+    /*
+      -----------------------------------------------------
+      CREATE PUBLICATION NUMBERS
+      -----------------------------------------------------
+
+      Zotero returned the papers newest -> oldest.
+
+      We reverse a COPY of that array only for assigning
+      publication numbers.
+
+      Therefore:
+
+      oldest publication = 1
+      next oldest        = 2
+      ...
+      newest publication = highest number
+
+      The actual display order remains newest -> oldest.
+    */
+
+    const publicationNumbers = new Map();
+
+    [...items]
+      .reverse()
+      .forEach((item, index) => {
+
+        publicationNumbers.set(
+          item,
+          index + 1
+        );
+
+      });
+
+
+    /*
+      -----------------------------------------------------
+      GROUP PUBLICATIONS BY YEAR
+      -----------------------------------------------------
+    */
+
     const publicationsByYear = {};
 
+
     items.forEach(item => {
+
       const year = getYear(item.date);
 
       if (!publicationsByYear[year]) {
@@ -434,17 +520,36 @@ document.addEventListener("DOMContentLoaded", async function () {
       }
 
       publicationsByYear[year].push(item);
+
     });
 
-    const years = Object.keys(publicationsByYear).sort((a, b) => {
 
-      if (a === "Undated") return 1;
-      if (b === "Undated") return -1;
+    /*
+      -----------------------------------------------------
+      SORT YEARS NEWEST -> OLDEST
+      -----------------------------------------------------
+    */
 
-      return Number(b) - Number(a);
-    });
+    const years = Object
+      .keys(publicationsByYear)
+      .sort((a, b) => {
+
+        if (a === "Undated") return 1;
+        if (b === "Undated") return -1;
+
+        return Number(b) - Number(a);
+
+      });
+
+
+    /*
+      -----------------------------------------------------
+      BUILD PUBLICATION LIST
+      -----------------------------------------------------
+    */
 
     let html = "";
+
 
     years.forEach(year => {
 
@@ -456,85 +561,140 @@ document.addEventListener("DOMContentLoaded", async function () {
         <ol class="pub-list">
       `;
 
+
       publicationsByYear[year].forEach(item => {
-        html += publicationHTML(item);
+
+        const publicationNumber =
+          publicationNumbers.get(item);
+
+        html += publicationHTML(
+          item,
+          publicationNumber
+        );
+
       });
 
+
       html += "</ol>";
+
     });
+
 
     container.innerHTML = html;
 
 
-    /* Venue buttons */
+    /*
+      -----------------------------------------------------
+      JOURNAL / VENUE BUTTONS
+      -----------------------------------------------------
+    */
 
-    container.querySelectorAll(".venue-btn").forEach(button => {
+    container
+      .querySelectorAll(".venue-btn")
+      .forEach(button => {
 
-      button.addEventListener("click", function () {
+        button.addEventListener(
+          "click",
+          function () {
 
-        const parent = this.closest("li");
-        const detailsBox =
-          parent.querySelector(".details-info");
+            const parent =
+              this.closest("li");
 
-        const abstractBox =
-          parent.querySelector(".abstract-info");
+            const detailsBox =
+              parent.querySelector(
+                ".details-info"
+              );
 
-        if (abstractBox) {
-          abstractBox.style.display = "none";
-        }
-
-        const content =
-          this.getAttribute("data-full");
-
-        if (
-          detailsBox.style.display === "block"
-        ) {
-          detailsBox.style.display = "none";
-        } else {
-
-          detailsBox.innerHTML =
-            `<strong>Published in:</strong> ${content}`;
-
-          detailsBox.style.display = "block";
-        }
-
-      });
-
-    });
+            const abstractBox =
+              parent.querySelector(
+                ".abstract-info"
+              );
 
 
-    /* Abstract buttons */
+            if (abstractBox) {
+              abstractBox.style.display = "none";
+            }
 
-    container.querySelectorAll(".abstract-btn").forEach(button => {
 
-      button.addEventListener("click", function () {
+            const content =
+              this.getAttribute("data-full");
 
-        const parent = this.closest("li");
 
-        const abstractBox =
-          parent.querySelector(".abstract-info");
+            if (
+              detailsBox.style.display === "block"
+            ) {
 
-        const detailsBox =
-          parent.querySelector(".details-info");
+              detailsBox.style.display = "none";
 
-        if (detailsBox) {
-          detailsBox.style.display = "none";
-        }
+            } else {
 
-        abstractBox.style.display =
-          abstractBox.style.display === "block"
-            ? "none"
-            : "block";
+              detailsBox.innerHTML =
+                `<strong>Published in:</strong> ${content}`;
+
+              detailsBox.style.display =
+                "block";
+            }
+
+          }
+        );
 
       });
 
-    });
+
+    /*
+      -----------------------------------------------------
+      ABSTRACT BUTTONS
+      -----------------------------------------------------
+    */
+
+    container
+      .querySelectorAll(".abstract-btn")
+      .forEach(button => {
+
+        button.addEventListener(
+          "click",
+          function () {
+
+            const parent =
+              this.closest("li");
+
+            const abstractBox =
+              parent.querySelector(
+                ".abstract-info"
+              );
+
+            const detailsBox =
+              parent.querySelector(
+                ".details-info"
+              );
+
+
+            if (detailsBox) {
+              detailsBox.style.display =
+                "none";
+            }
+
+
+            abstractBox.style.display =
+              abstractBox.style.display === "block"
+                ? "none"
+                : "block";
+
+          }
+        );
+
+      });
 
   }
 
+
   catch (error) {
 
-    console.error("Could not load Zotero publications:", error);
+    console.error(
+      "Could not load Zotero publications:",
+      error
+    );
+
 
     container.innerHTML = `
       <p style="color: var(--port-muted);">
