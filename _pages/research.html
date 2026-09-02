@@ -24,8 +24,125 @@ author_profile: false
 .research-intro {
   max-width: 780px;
   margin-bottom: 35px;
+
   color: var(--research-text);
+
   line-height: 1.65;
+}
+
+
+/* ============================
+   ACTIVE FUNDING
+   ============================ */
+
+.funding-section {
+  margin-bottom: 50px;
+}
+
+
+.funding-heading {
+  margin: 0 0 8px 0;
+  padding-bottom: 8px;
+
+  border-bottom: 1px solid var(--research-border);
+
+  color: var(--research-primary);
+
+  font-size: 1.05em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+
+  text-transform: uppercase;
+}
+
+
+.funding-intro {
+  max-width: 760px;
+
+  margin: 0 0 17px 0;
+
+  color: var(--research-muted);
+
+  font-size: 0.85em;
+  line-height: 1.55;
+}
+
+
+.funding-item {
+  display: grid;
+
+  grid-template-columns: 115px 1fr;
+
+  gap: 22px;
+
+  padding: 15px 0;
+
+  border-bottom: 1px solid var(--research-border);
+}
+
+
+.funding-item:last-child {
+  border-bottom: 0;
+}
+
+
+.funding-period {
+  color: var(--research-muted);
+
+  font-size: 0.78em;
+  font-weight: 600;
+
+  line-height: 1.45;
+}
+
+
+.funding-duration {
+  display: block;
+
+  margin-top: 2px;
+
+  font-size: 0.88em;
+  font-weight: 400;
+}
+
+
+.funding-title {
+  margin-bottom: 3px;
+
+  color: var(--research-primary);
+
+  font-size: 0.91em;
+  font-weight: 700;
+
+  line-height: 1.4;
+}
+
+
+.funding-meta {
+  color: var(--research-muted);
+
+  font-size: 0.77em;
+  line-height: 1.45;
+}
+
+
+/* ============================
+   RESEARCH PROJECT HEADING
+   ============================ */
+
+.projects-heading {
+  margin: 0 0 20px 0;
+  padding-bottom: 8px;
+
+  border-bottom: 1px solid var(--research-border);
+
+  color: var(--research-primary);
+
+  font-size: 1.05em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+
+  text-transform: uppercase;
 }
 
 
@@ -35,6 +152,7 @@ author_profile: false
 
 .research-card {
   margin-bottom: 30px;
+
   overflow: hidden;
 
   background: var(--research-bg);
@@ -50,7 +168,9 @@ author_profile: false
 
 .research-card:hover {
   border-color: #d6dde5;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.04);
+
+  box-shadow:
+    0 5px 20px rgba(0,0,0,0.04);
 }
 
 
@@ -59,10 +179,12 @@ author_profile: false
    ============================ */
 
 .research-image {
+  display: block;
+
   width: 100%;
   max-height: 360px;
+
   object-fit: cover;
-  display: block;
 }
 
 
@@ -223,6 +345,7 @@ author_profile: false
 
 .research-link:hover {
   background: var(--research-accent);
+
   border-color: var(--research-accent);
 
   color: #ffffff !important;
@@ -235,9 +358,26 @@ author_profile: false
 
 @media (max-width: 650px) {
 
+  .funding-item {
+    grid-template-columns: 1fr;
+
+    gap: 3px;
+
+    padding: 14px 0;
+  }
+
+
+  .funding-duration {
+    display: inline;
+
+    margin-left: 5px;
+  }
+
+
   .research-card-body {
     padding: 20px;
   }
+
 
   .research-image {
     max-height: 260px;
@@ -247,6 +387,10 @@ author_profile: false
 
 </style>
 
+
+<!-- ============================
+     INTRO
+     ============================ -->
 
 <div class="research-intro">
 
@@ -259,10 +403,268 @@ author_profile: false
 </div>
 
 
+
+<!-- ============================
+     ACTIVE FUNDING
+     ============================ -->
+
+<section class="funding-section">
+
+  <h2 class="funding-heading">
+    Active funding
+  </h2>
+
+
+  <p class="funding-intro">
+    Current externally funded research projects as Principal Investigator,
+    Co-Principal Investigator, or project partner.
+  </p>
+
+
+
+  <!-- Steelhead scales -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2026–2029
+
+      <span class="funding-duration">
+        4-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Developing geochemical methods for the non-lethal reconstruction
+        of natal origins and anadromy from <i>Oncorhynchus mykiss</i>
+        fish scales
+      </div>
+
+      <div class="funding-meta">
+        Co-PI · United States Bureau of Reclamation
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Chinook juvenile growth -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2025–2028
+
+      <span class="funding-duration">
+        4-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Chinook Salmon juvenile growth through Central Valley
+        rearing grounds
+      </div>
+
+      <div class="funding-meta">
+        Co-PI · State Water Contractors
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Norwegian scale archive -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2025–2026
+
+      <span class="funding-duration">
+        2-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Digitalisering av skjellageret – modernisert
+        Skjellbidegrunnlag
+      </div>
+
+      <div class="funding-meta">
+        PI · Miljødirektoratet
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Pink salmon Iceland -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2025–2026
+
+      <span class="funding-duration">
+        2-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Establishing the origin of the invasive pink salmon,
+        <i>Oncorhynchus gorbuscha</i>, spawning in Icelandic rivers
+      </div>
+
+      <div class="funding-meta">
+        Co-PI · Arctic Council, UK
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Guadalupe River -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2025–2026
+
+      <span class="funding-duration">
+        2-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Guadalupe River Salmon project
+      </div>
+
+      <div class="funding-meta">
+        Project partner · South Bay Clean Creeks Coalition
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Central Valley Steelhead -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2023–2026
+
+      <span class="funding-duration">
+        4-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Using otolith-based approaches to derive demographic
+        parameters for California Central Valley Steelhead
+      </div>
+
+      <div class="funding-meta">
+        Co-PI · United States Bureau of Reclamation
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Sturgeon -->
+
+  <div class="funding-item">
+
+    <div class="funding-period">
+
+      2023–2026
+
+      <span class="funding-duration">
+        4-year project
+      </span>
+
+    </div>
+
+
+    <div>
+
+      <div class="funding-title">
+        Green and White Sturgeon in the San Francisco Estuary:
+        using fin ray geochemistry to reconstruct habitat use
+        and migration throughout the Delta, and to estimate
+        population-level impacts of harmful algal blooms
+      </div>
+
+      <div class="funding-meta">
+        Co-PI · Proposition 1 Watershed Restoration Grant &amp;
+        Delta Water Quality and Ecosystem Restoration Grant
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ============================
+     RESEARCH PROJECTS
+     ============================ -->
+
+<h2 class="projects-heading">
+  Research projects
+</h2>
+
+
 {% assign research_projects = site.research | sort: "order" %}
 
 
 {% for project in research_projects %}
+
 
 <article class="research-card">
 
@@ -286,6 +688,7 @@ author_profile: false
     </h2>
 
 
+
     {% if project.period or project.status %}
 
     <div class="research-meta">
@@ -307,6 +710,7 @@ author_profile: false
     {% endif %}
 
 
+
     {% if project.summary %}
 
     <div class="research-summary">
@@ -314,6 +718,7 @@ author_profile: false
     </div>
 
     {% endif %}
+
 
 
     {% if project.tags %}
@@ -333,6 +738,7 @@ author_profile: false
     {% endif %}
 
 
+
     {% if project.content != "" %}
 
     <details class="research-details">
@@ -348,6 +754,7 @@ author_profile: false
     </details>
 
     {% endif %}
+
 
 
     {% if project.links %}
@@ -375,5 +782,6 @@ author_profile: false
   </div>
 
 </article>
+
 
 {% endfor %}
