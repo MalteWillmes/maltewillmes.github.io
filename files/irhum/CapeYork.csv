@@ -1,0 +1,36 @@
+FID,fid,the_geom,sample_num,sample_typ,site_name,eastings,Northings,Geology,Rock,Catchment,_87sr_86sr,_2se
+CapeYork.1,1,POINT (141.14554 -17.4533),95,M. rufus,Maggieville,141.14554,-17.4533,T3,Alluvial,Norman,0.728797,0.000056
+CapeYork.2,2,POINT (140.8519 -17.474849),96,S. scrofa,Karumba,140.8519,-17.474849,Qc,Marine Sands,Norman,0.71008,0.000045
+CapeYork.3,3,POINT (141.05485 -17.69346),97,M. agilis,Normanton,141.05485,-17.69346,K,Clastic,Norman,0.71248,0.000047
+CapeYork.4,4,POINT (142.00959 -18.04558),98,M. agilis,Qa/T3,142.00959,-18.04558,T3,Alluvial,Norman,0.738927,0.000129
+CapeYork.5,5,POINT (142.23874 -18.18963),99,M. agilis,Croydon,142.23874,-18.18963,mPi,Felsic Intrusive,Norman,0.786249,0.000449
+CapeYork.6,6,POINT (142.686256 -18.27315),100,M. rufus,Five Mile Water Hole,142.686256,-18.27315,mPv,Felsic Extrusives,Gilbert,0.750155,0.000066
+CapeYork.7,7,POINT (142.89252 -18.19044),101,M. rufus,Chadshunt turnoff,142.89252,-18.19044,Qa,Alluvial,Gilbert,0.733434,0.000054
+CapeYork.8,8,POINT (145.40421 -16.99433),102,M. giganteus,Mareeba,145.40421,-16.99433,CzV,Mafic Volcanic,Barron,0.71675,0.000139
+CapeYork.9,9,POINT (145.08621 -17.16276),103,M. giganteus,Dimbula,145.08621,-17.16276,Qa,Alluvial,Mitchell,0.732188,0.000071
+CapeYork.10,10,POINT (143.28339 -16.46692),104,M. giganteus,Lynde River,143.28339,-16.46692,Qa,Alluvial,Mitchell,0.732355,0.000047
+CapeYork.11,11,POINT (143.13234 -16.32455),105,M. giganteus,15KM Past Highbury,143.13234,-16.32455,T2,Alluvial,Mitchell,0.733233,0.000086
+CapeYork.12,12,POINT (144.852861 -15.907833),106,M. rufus,Brothers,144.852861,-15.907833,CzV,Mafic Volcanic,Normanby,0.705355,0.000129
+CapeYork.13,13,POINT (143.977205 -15.270684),107,M. giganteus,Fairview Station,143.977205,-15.270684,K,Clastic,Normanby,0.71441,0.000035
+CapeYork.14,14,POINT (143.655472 -14.609194),108,M. giganteus,Lilyvale,143.655472,-14.609194,Qa,Alluvial,Normanby,0.739408,0.000028
+CapeYork.15,15,POINT (142.842176 -13.667663),109,M. agilis,Oyala,142.842176,-13.667663,K,Clastic,Archer,0.71308,0.000141
+CapeYork.16,16,POINT (142.671116 -12.659875),110,S. scrofa,Batavia Downs,142.671116,-12.659875,K,Clastic,Wentlock,0.709806,0.000038
+CapeYork.17,17,POINT (142.631708 -11.935627),111,S. scrofa,Shellburne,142.631708,-11.935627,K,Clastic,Jacky Jacky,0.709649,0.000016
+CapeYork.18,18,POINT (142.991135 -13.522337),112,M. agilis,Coen Airport,142.991135,-13.522337,Dei,Felsic Intrusive,Archer,0.729299,0.000251
+CapeYork.19,19,POINT (144.028972 -14.741278),113,M. giganteus,Bizant,144.028972,-14.741278,Qa,Alluvial,Normanby,0.735691,0.000076
+CapeYork.20,20,POINT (144.256611 -14.983417),114,M. agilis,Lakefield,144.256611,-14.983417,Qa,Alluvial,Normanby,0.717964,0.000044
+CapeYork.21,21,POINT (145.222722 -15.706389),115,M. agilis,Black Mountain,145.222722,-15.706389,Cpi,Felsic Intrusive,Endeavour,0.70971,0.000144
+CapeYork.22,22,POINT (144.348754 -16.099501),116,Fresh Water,Bony Glen,144.348754,-16.099501,D,Clastic,Mitchell,0.754544,0.000015
+CapeYork.23,23,POINT (144.890371 -16.557342),117,Fresh Water,McLeod River,144.890371,-16.557342,Qa,Alluvial,Mitchell,0.727071,0.000013
+CapeYork.24,24,POINT (142.424624 -15.960544),118,Fresh Water,Mitchell River,142.424624,-15.960544,Qa,Alluvial,Mitchell,0.727371,0.000011
+CapeYork.25,25,POINT (143.874317 -15.191372),119,Fresh Water,Hahn River,143.874317,-15.191372,Cz,Colluvial/Residual,Normanby,0.718287,0.000014
+CapeYork.26,26,POINT (142.125833 -14.628917),120,Fresh Water,Southwell,142.125833,-14.628917,T2,Alluvial,Coleman,0.732268,0.000013
+CapeYork.27,27,POINT (143.678527 -14.487959),121,Fresh Water,Running Creek,143.678527,-14.487959,Qa,Alluvial,Stewart,0.729042,0.000011
+CapeYork.28,28,POINT (142.270914 -12.653622),122,Fresh Water,Myall Creek,142.270914,-12.653622,k,Clastic,Embley,0.707232,0.000011
+CapeYork.29,29,POINT (142.640472 -12.452771),123,Fresh Water,Wentlock River,142.640472,-12.452771,K,Clastic,Wentlock,0.720347,0.000013
+CapeYork.30,30,POINT (142.808861 -11.616111),124,Fresh Water,Captain Billy Landing road,142.808861,-11.616111,JK,Clastic,Jacky Jacky,0.713294,0.00001
+CapeYork.31,31,POINT (142.284231 -11.099889),125,Fresh Water,Jardine River,142.284231,-11.099889,JK,Clastic,Jardine,0.712869,0.000017
+CapeYork.32,32,POINT (142.316917 -10.953417),126,Fresh Water,Muttee Heads,142.316917,-10.953417,Cz,Colluvial/Residual,Jacky Jacky,0.718774,0.000017
+CapeYork.33,33,POINT (144.432945 -14.274331),127,Fresh Water,Cape Melville Creek,144.432945,-14.274331,Cpi,Felsic Intrusive,Jeannie,0.717034,0.000018
+CapeYork.34,34,POINT (144.844835 -15.289696),128,Fresh Water,Normanby River,144.844835,-15.289696,Jk,Clastic,Normanby,0.716563,0.00001
+CapeYork.35,35,POINT (145.014448 -15.300452),129,Fresh Water,Isabella Creek,145.014448,-15.300452,Jk,Clastic,Endeavour,0.708233,0.000013
