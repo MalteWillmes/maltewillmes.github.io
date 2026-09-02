@@ -571,3 +571,35 @@ redirect_from:
 
 
 </div>
+<!-- BandTracer -->
+
+<div class="tool-card">
+
+  <div>
+
+    <div class="tool-title">
+      BandTracer
+    </div>
+
+    <p class="tool-description">
+      Fiji plugin for tracing and measuring growth bands
+      in otoliths, scales, and fin spines.
+    </p>
+
+  </div>
+
+
+  <div class="tool-links">
+
+    <a
+      href="https://github.com/MalteWillmes/BandTracer"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="tool-link"
+    >
+      GitHub
+    </a>
+
+  </div>
+
+</div>
