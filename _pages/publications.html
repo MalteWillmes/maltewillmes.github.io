@@ -176,123 +176,373 @@ author_profile: false
   }
 </style>
 
-{% if site.author.googlescholar %}
-  <div class="collab-box" style="background-color: #f8fbfd;">
-    You can also find my articles with the latest citations on <a href="#" style="color:#3172b4; text-decoration:underline; font-weight:600;">my Google Scholar profile</a>.
-  </div>
-{% endif %}
 
 {% include base_path %}
 
-<h2 class="pub-section-title">Journal Articles</h2>
-<ol class="pub-list">
-  
-  <li>
-    <span class="paper-title">Predictive Modeling of Urban Heat Islands using CNNs and Multispectral Satellite Imagery.</span>
-    <div class="authors-list">Doe, J., Smith, A., Johnson, R., and Taylor, M., (2024).</div>
-    <div class="paper-meta">
-      <span class="meta-btn venue-btn" data-full="Journal of Environmental Informatics, 42(3), pp.112-134.">JEI '24</span>
-      <span class="impact-badge">Peer-Reviewed</span>
-      <span class="meta-btn abstract-btn">Abstract</span>
-      <span class="meta-btn doi-btn" data-full="#">DOI</span>
-    </div>
-    <div class="info-box details-info"></div>
-    <div class="info-box abstract-info">
-      <p>As metropolitan areas continue to expand globally, the Urban Heat Island (UHI) effect poses an increasing threat to public health and energy consumption. Traditional methods of mapping UHIs rely heavily on sparse networks of ground-based weather stations, often failing to capture highly localized temperature spikes.</p>
-      <p>This study introduces a novel approach using a custom ResNet-based Convolutional Neural Network (CNN) to analyze 500GB of multispectral Landsat imagery. By integrating thermal bands with high-resolution digital elevation models, our architecture extracts complex spatial features, including the impact of building shadows and localized vegetation indices.</p>
-      <p>Experimental results demonstrate that our deep learning model successfully predicts localized temperature variances down to a 30-meter resolution. The proposed CNN architecture outperformed baseline linear regression models by a significant margin, achieving an overall predictive accuracy of <strong>88.4%</strong> and demonstrating robust capabilities in forecasting dangerous heat events 48 hours in advance.</p>
-    </div>
-  </li>
+{% include base_path %}
 
-  <li>
-    <span class="paper-title">Evaluating the Impact of Green Corridors on Microclimate Temperatures: A Data-Driven Approach.</span>
-    <div class="authors-list">Smith, A., Doe, J., and Williams, C., (2023).</div>
-    <div class="paper-meta">
-      <span class="meta-btn venue-btn" data-full="Sustainable Cities and Society, 85, 104052.">SCS '23</span>
-      <span class="impact-badge">Elsevier</span>
-      <span class="meta-btn abstract-btn">Abstract</span>
-      <span class="meta-btn doi-btn" data-full="#">DOI</span>
-    </div>
-    <div class="info-box details-info"></div>
-    <div class="info-box abstract-info">
-      <p>Mitigating urban heat requires strategic urban planning, specifically the deployment of green infrastructure. While the cooling effect of urban parks is well-documented, the micro-climatic impact of continuous "green corridors" (connected networks of street trees and vegetation) remains under-analyzed.</p>
-      <p>This paper presents a comprehensive data-driven analysis using a multi-year dataset of surface temperature readings and vegetation indices across three major metropolitan areas. We employ gradient boosting algorithms (XGBoost and LightGBM) to isolate the cooling effect of continuous canopy cover from confounding variables such as proximity to water bodies and building density.</p>
-      <p>Our findings indicate that continuous green corridors are <strong>up to 35% more effective</strong> at reducing ambient temperatures in high-density commercial zones compared to isolated parks of equivalent total area. These insights provide actionable guidelines for city planners aiming to optimize tree-planting initiatives for maximum thermal comfort.</p>
-    </div>
-  </li>
-</ol>
-
-<h2 class="pub-section-title">Conference Proceedings</h2>
-<ol class="pub-list">
-  
-  <li>
-    <span class="paper-title">A Deep Learning Framework for Real-time Urban Canopy Mapping.</span>
-    <div class="authors-list">Doe, J., and Johnson, R., (2025).</div>
-    <div class="paper-meta">
-      <span class="meta-btn venue-btn" data-full="2025 International Conference on Climate Informatics, Berlin, Germany.">ICCI '25</span>
-      <span class="impact-badge">IEEE Xplore</span>
-      <span class="meta-btn abstract-btn">Abstract</span>
-      <span class="meta-btn doi-btn" data-full="#">DOI</span>
-    </div>
-    <div class="info-box details-info"></div>
-    <div class="info-box abstract-info">
-      <p>Accurate mapping of the urban tree canopy is essential for assessing a city's resilience to climate change. Traditional classification of aerial imagery is computationally expensive and often requires significant manual correction.</p>
-      <p>We propose a lightweight, real-time deep learning framework utilizing a modified U-Net architecture optimized for edge computing. By employing a combination of spatial attention mechanisms and transfer learning from pre-trained environmental models, our framework significantly reduces inference time while maintaining high segmentation accuracy.</p>
-      <p>Evaluated on the benchmark UrbanNav dataset, our model achieved a Mean Intersection over Union (mIoU) of <strong>0.82</strong>, operating at 45 frames per second on standard commercial hardware. This framework provides municipalities with a cost-effective tool for continuous environmental monitoring.</p>
-    </div>
-  </li>
-</ol>
-
-<h2 class="pub-section-title">Book Chapters</h2>
-<ol class="pub-list">
-  <li>
-    <span class="paper-title">The Role of Artificial Intelligence in Climate Adaptation Strategies.</span>
-    <div class="authors-list">Taylor, M., Doe, J., (2023).</div>
-    <div class="paper-meta">
-      <span class="meta-btn venue-btn" data-full="Handbook of Computational Sustainability, Springer.">Springer '23</span>
-      <span class="impact-badge">Springer</span>
-      <span class="meta-btn abstract-btn">Summary</span>
-      <span class="meta-btn doi-btn" data-full="#">DOI</span>
-    </div>
-    <div class="info-box details-info"></div>
-    <div class="info-box abstract-info">
-      <p><strong>Chapter Summary:</strong> This chapter provides a comprehensive overview of how machine learning and artificial intelligence are being deployed to address critical challenges in climate adaptation. We explore specific use cases ranging from precision agriculture and water resource management to the prediction of extreme weather events.</p>
-      <p>A significant portion of the chapter focuses on the transition from reactive disaster response to predictive modeling. We detail the foundational algorithms used in environmental data science, including time-series forecasting and spatial-temporal neural networks, emphasizing the importance of open data initiatives in accelerating global sustainability efforts.</p>
-    </div>
-  </li>
-</ol>
-
-<h2 class="pub-section-title">Under Review</h2>
-<ul class="pub-list" style="list-style-type: square; padding-left: 20px;">
-  <li><span style="color: var(--port-muted); font-style: italic;">"Temporal Dynamics of Urban Heat Islands: A Five-Year Longitudinal Study" (Submitted to Nature Climate Change)</span></li>
-</ul>
+<div id="zotero-publications">
+  <p style="color: var(--port-muted);">Loading publications from Zotero...</p>
+</div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll('.meta-btn').forEach(btn => {
-      btn.addEventListener('click', function() {
-        const parent = this.closest('li');
-        const detailsBox = parent.querySelector('.details-info');
-        const abstractBox = parent.querySelector('.abstract-info');
-        
-        if (this.classList.contains('venue-btn') || this.classList.contains('doi-btn')) {
-          abstractBox.style.display = "none";
-          const isDoi = this.classList.contains('doi-btn');
-          const content = this.getAttribute('data-full');
-          const html = isDoi ? `<strong>Link:</strong> <a href="${content}" target="_blank" style="color:#3172b4; text-decoration:underline;">${content}</a>` : `<strong>Venue:</strong> ${content}`;
-          
-          if (detailsBox.style.display === "block" && detailsBox.innerHTML === html) {
-            detailsBox.style.display = "none";
-          } else {
-            detailsBox.innerHTML = html;
-            detailsBox.style.display = "block";
-          }
-        } 
-        else if (this.classList.contains('abstract-btn')) {
-          detailsBox.style.display = "none";
-          abstractBox.style.display = (abstractBox.style.display === "block") ? "none" : "block";
+document.addEventListener("DOMContentLoaded", async function () {
+
+  const zoteroUserID = "10108379";
+  const container = document.getElementById("zotero-publications");
+
+  const apiURL =
+    `https://api.zotero.org/users/${zoteroUserID}/publications/items` +
+    `?format=json&sort=date&direction=desc&limit=100&v=3`;
+
+  function escapeHTML(value) {
+    if (!value) return "";
+    return String(value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function getYear(date) {
+    if (!date) return "Undated";
+    const match = String(date).match(/\b(18|19|20|21)\d{2}\b/);
+    return match ? match[0] : "Undated";
+  }
+
+  function formatCreator(creator) {
+    if (creator.name) {
+      return escapeHTML(creator.name);
+    }
+
+    const lastName = creator.lastName || "";
+    const firstName = creator.firstName || "";
+
+    const initials = firstName
+      .split(/[\s-]+/)
+      .filter(Boolean)
+      .map(name => name.charAt(0).toUpperCase() + ".")
+      .join(" ");
+
+    let formatted = escapeHTML(
+      lastName + (initials ? ", " + initials : "")
+    );
+
+    if (lastName.toLowerCase() === "willmes") {
+      formatted = `<strong>${formatted}</strong>`;
+    }
+
+    return formatted;
+  }
+
+  function formatAuthors(creators) {
+    if (!creators || creators.length === 0) return "";
+
+    const authors = creators
+      .filter(c =>
+        !c.creatorType ||
+        ["author", "editor", "bookAuthor"].includes(c.creatorType)
+      )
+      .map(formatCreator);
+
+    return authors.join(", ");
+  }
+
+  function getVenue(item) {
+    return (
+      item.publicationTitle ||
+      item.proceedingsTitle ||
+      item.bookTitle ||
+      item.university ||
+      item.institution ||
+      item.publisher ||
+      ""
+    );
+  }
+
+  function getVenueDetails(item) {
+    let parts = [];
+
+    const venue = getVenue(item);
+    if (venue) parts.push(venue);
+
+    if (item.volume) {
+      let volume = item.volume;
+
+      if (item.issue) {
+        volume += `(${item.issue})`;
+      }
+
+      parts.push(volume);
+    }
+
+    if (item.pages) {
+      parts.push(item.pages);
+    }
+
+    return parts.join(", ");
+  }
+
+  function getItemTypeLabel(type) {
+    const labels = {
+      journalArticle: "Journal article",
+      conferencePaper: "Conference paper",
+      bookSection: "Book chapter",
+      book: "Book",
+      report: "Report",
+      thesis: "Thesis",
+      preprint: "Preprint",
+      webpage: "Web publication"
+    };
+
+    return labels[type] || "Publication";
+  }
+
+  function publicationHTML(item) {
+
+    const title = escapeHTML(item.title || "Untitled");
+    const authors = formatAuthors(item.creators);
+    const year = getYear(item.date);
+
+    const venue = escapeHTML(getVenue(item));
+    const venueDetails = escapeHTML(getVenueDetails(item));
+
+    const abstract = escapeHTML(item.abstractNote || "");
+
+    const doi = item.DOI
+      ? `https://doi.org/${encodeURIComponent(item.DOI.trim())}`
+      : "";
+
+    const itemURL = item.url || "";
+
+    let buttons = "";
+
+    if (venue) {
+      buttons += `
+        <span class="meta-btn venue-btn"
+              data-full="${venueDetails}">
+          ${venue}
+        </span>
+      `;
+    }
+
+    buttons += `
+      <span class="impact-badge">
+        ${getItemTypeLabel(item.itemType)}
+      </span>
+    `;
+
+    if (abstract) {
+      buttons += `
+        <span class="meta-btn abstract-btn">
+          Abstract
+        </span>
+      `;
+    }
+
+    if (doi) {
+      buttons += `
+        <a class="meta-btn doi-btn"
+           href="${doi}"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="text-decoration:none;">
+          DOI
+        </a>
+      `;
+    } else if (itemURL) {
+      buttons += `
+        <a class="meta-btn doi-btn"
+           href="${escapeHTML(itemURL)}"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="text-decoration:none;">
+          Link
+        </a>
+      `;
+    }
+
+    return `
+      <li>
+
+        <span class="paper-title">
+          ${title}
+        </span>
+
+        <div class="authors-list">
+          ${authors} (${year})
+        </div>
+
+        <div class="paper-meta">
+          ${buttons}
+        </div>
+
+        <div class="info-box details-info"></div>
+
+        ${
+          abstract
+            ? `
+              <div class="info-box abstract-info">
+                <p>${abstract}</p>
+              </div>
+            `
+            : ""
         }
-      });
+
+      </li>
+    `;
+  }
+
+  try {
+
+    const response = await fetch(apiURL, {
+      headers: {
+        "Zotero-API-Version": "3"
+      }
     });
-  });
+
+    if (!response.ok) {
+      throw new Error(
+        `Zotero API returned ${response.status}`
+      );
+    }
+
+    const results = await response.json();
+
+    const items = results
+      .map(result => result.data || result)
+      .filter(item =>
+        item.itemType !== "attachment" &&
+        item.itemType !== "note" &&
+        item.itemType !== "annotation"
+      );
+
+    if (items.length === 0) {
+      container.innerHTML =
+        "<p>No publications found in Zotero My Publications.</p>";
+      return;
+    }
+
+    const publicationsByYear = {};
+
+    items.forEach(item => {
+      const year = getYear(item.date);
+
+      if (!publicationsByYear[year]) {
+        publicationsByYear[year] = [];
+      }
+
+      publicationsByYear[year].push(item);
+    });
+
+    const years = Object.keys(publicationsByYear).sort((a, b) => {
+
+      if (a === "Undated") return 1;
+      if (b === "Undated") return -1;
+
+      return Number(b) - Number(a);
+    });
+
+    let html = "";
+
+    years.forEach(year => {
+
+      html += `
+        <h2 class="pub-section-title">
+          ${year}
+        </h2>
+
+        <ol class="pub-list">
+      `;
+
+      publicationsByYear[year].forEach(item => {
+        html += publicationHTML(item);
+      });
+
+      html += "</ol>";
+    });
+
+    container.innerHTML = html;
+
+
+    /* Venue buttons */
+
+    container.querySelectorAll(".venue-btn").forEach(button => {
+
+      button.addEventListener("click", function () {
+
+        const parent = this.closest("li");
+        const detailsBox =
+          parent.querySelector(".details-info");
+
+        const abstractBox =
+          parent.querySelector(".abstract-info");
+
+        if (abstractBox) {
+          abstractBox.style.display = "none";
+        }
+
+        const content =
+          this.getAttribute("data-full");
+
+        if (
+          detailsBox.style.display === "block"
+        ) {
+          detailsBox.style.display = "none";
+        } else {
+
+          detailsBox.innerHTML =
+            `<strong>Published in:</strong> ${content}`;
+
+          detailsBox.style.display = "block";
+        }
+
+      });
+
+    });
+
+
+    /* Abstract buttons */
+
+    container.querySelectorAll(".abstract-btn").forEach(button => {
+
+      button.addEventListener("click", function () {
+
+        const parent = this.closest("li");
+
+        const abstractBox =
+          parent.querySelector(".abstract-info");
+
+        const detailsBox =
+          parent.querySelector(".details-info");
+
+        if (detailsBox) {
+          detailsBox.style.display = "none";
+        }
+
+        abstractBox.style.display =
+          abstractBox.style.display === "block"
+            ? "none"
+            : "block";
+
+      });
+
+    });
+
+  }
+
+  catch (error) {
+
+    console.error("Could not load Zotero publications:", error);
+
+    container.innerHTML = `
+      <p style="color: var(--port-muted);">
+        Publications could not be loaded from Zotero.
+      </p>
+    `;
+
+  }
+
+});
 </script>
