@@ -4,7 +4,7 @@ date: 2012-12-14
 event: "Australian Archaeological Association"
 type: "Conference presentation"
 
-location: "Australian Archaeological Association"
+location: "Wollongong, New South Wales, Australia"
 latitude: -34.425173
 longitude: 150.893402 
 

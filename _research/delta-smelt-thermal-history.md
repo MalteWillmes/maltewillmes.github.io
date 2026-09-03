@@ -21,8 +21,8 @@ links:
 
 Delta Smelt (*Hypomesus transpacificus*) is a small pelagic fish endemic to the Sacramento–San Joaquin Bay-Delta and one of the most imperiled fishes in the San Francisco Estuary. Its habitat lies within a highly managed estuary where freshwater flows, water exports, drought, and increasing temperatures interact to shape available habitat.
 
-During my 2017–2019 Delta Science Fellowship, we used strontium isotope ratios (^87Sr/^86Sr^) and oxygen isotopes (δ^18^O) measured along archived Delta Smelt otoliths to reconstruct individual life histories at fine temporal scales.
+During my 2017–2019 Delta Science Fellowship, we used strontium isotope ratios (<sup>87</sup>Sr/<sup>86</sup>Sr) and oxygen isotopes (δ<sup>18</sup>O) measured along archived Delta Smelt otoliths to reconstruct individual life histories at fine temporal scales.
 
-Otolith ^87Sr/^86Sr^ ratios provide information about the salinity and geographic environments occupied by a fish, while otolith δ^18^O records variation associated with water temperature. Combining these tracers allows movement among habitats to be evaluated together with the thermal conditions experienced by individual fish.
+Otolith <sup>87</sup>Sr/<sup>86</sup>Sr ratios provide information about the salinity and geographic environments occupied by a fish, while otolith δ<sup>18</sup>O records variation associated with water temperature. Combining these tracers allows movement among habitats to be evaluated together with the thermal conditions experienced by individual fish.
 
 The project investigated how Delta Smelt habitat use and thermal exposure varied in relation to freshwater outflow and environmental conditions, with particular interest in drought periods and warming water temperatures. The broader goal was to improve understanding of the habitats that may provide thermal refuge and contribute to the resilience of Delta Smelt under climate change.
