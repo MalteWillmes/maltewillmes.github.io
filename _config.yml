@@ -1,201 +1,67 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# Site settings
+locale          : "en-US"
+site_theme      : "default"
+title           : "About"
+title_separator : "-"
+name            : &name "Malte Willmes"
+description     : &description "Researcher in wildlife ecology, geochemistry, and archaeology"
+url             : "https://maltewillmes.github.io"
+baseurl         : ""
+repository      : "MalteWillmes/maltewillmes.github.io"
 
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Home"
-title_separator          : "-"
-name                     : &name "Malte Willmes"
-description              : &description "Researcher in wildlife ecology, geochemistry, and archaeology"
-url                      : "https://maltewillmes.github.io" 
-baseurl                  : "" 
-repository               : "MalteWillmes/maltewillmes.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Author profile
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Malte Willmes"
-  description      : "Wildlife ecology and Geochemistry"
-  pronouns         : "him/his"
-  bio              : "I am a researcher in ecology, geochemistry, and archaeology"
-  location         : "Trondheim, Norway"
-  employer         : "NINA"
-  uri              : 
-  email            : "malte.willmes@nina.no" 
+  avatar        : "profile.png"
+  name          : "Malte Willmes"
+  description   : "Wildlife ecology and geochemistry"
+  pronouns      : "him/his"
+  bio           : "I am a researcher in ecology, geochemistry, and archaeology"
+  location      : "Trondheim, Norway"
+  employer      : "NINA"
+  email         : "malte.willmes@nina.no"
 
-  # Academic websites
-  academia         : 
-  arxiv            : 
-  googlescholar    : "UmtrMTUAAAAJ"
-  impactstory      : 
-  orcid            : "0000-0001-8734-5324"
-  semantic         : 
-  pubmed           : 
-  researchgate     : 
-  scopus           : 
+  googlescholar : "UmtrMTUAAAAJ"
+  orcid         : "0000-0001-8734-5324"
+  github        : "maltewillmes"
+  bluesky       : "rocksandbones.bsky.social"
 
-  # Repositories and software development
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
-  github           : "maltewillmes"
-  kaggle           : 
-  stackoverflow    : 
 
-  # Social media
-  artstation       : 
-  bluesky          : "rocksandbones.bsky.social"
-  facebook         : 
-  flickr           : 
-  foursquare       : 
-  goodreads        : 
-  google_plus      : 
-  keybase          : 
-  instagram        : 
-  lastfm           : 
-  linkedin         :
-  mastodon         : 
-  medium           : 
-  pinterest        : 
-  soundcloud       : 
-  steam            : 
-  telegram         : 
-  tumblr           : 
-  twitter          : 
-  vine             : 
-  weibo            : 
-  wikipedia        : 
-  xing             : 
-  youtube          : 
-  zhihu            : 
+# General site behavior
+breadcrumbs : false
+future      : true
+read_more   : "disabled"
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
-# Site Settings
-teaser                   :  
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" 
-talkmap_link             : false      
-comments:
-  provider               : 
-  disqus:
-    shortname            :
-  discourse:
-    server               : 
-  facebook:
-    appid                :
-    num_posts            : 
-    colorscheme          : 
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" 
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" 
-atom_feed:
-  hide                   : false     
-  path                   : 
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  
-og_description           :  
-social:
-  type                   : 
-  name                   : 
-  links: 
-
-# Analytics
-analytics:
-  provider               :  "google-gtag" 
-  google:
-    tracking_id          : ""
-
-# Reading Files
+# Files included in the generated site
 include:
-  - .htaccess
   - _pages
   - files
+
+
+# Source/build files that should not be copied into _site
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
   - .github
-  - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
+  - node_modules
+  - scripts
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
+  - assets/js/theme.js
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
+  - Gemfile.lock
   - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+  - README.md
+  - package.json
+  - package-lock.json
 
-# Conversion
+
+# Markdown processing
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
 
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -204,9 +70,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-# These settings control the types of collections used by the template
+
+# Content collections
 collections:
   research:
     output: false
@@ -214,59 +80,40 @@ collections:
   presentations:
     output: false
 
-# These settings control how pages and collections are included in the site
+
+# Default front matter
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  
-  # _research
+
   - scope:
-     path: ""
-     type: research
+      path: ""
+      type: research
     values:
-     author_profile: false
+      author_profile: false
+
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-# Outputting
+
+# Output
 permalink: /:categories/:title/
-timezone: Etc/UTC 
+timezone: Etc/UTC
+
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
 
-# Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
 
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# HTML Compression
+# HTML compression
 compress_html:
   clippings: all
   ignore:
