@@ -1,6 +1,6 @@
 ---
-title: "Digitizing salmon scale archives"
-order: 5
+title: "Insights from Atlantic salmon scale archives"
+order: 1
 period: "2024–2026"
 status: "Ongoing"
 summary: "Digitizing Norwegian salmon scale collections and developing automated image-analysis workflows for long-term monitoring."

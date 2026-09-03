@@ -1,6 +1,6 @@
 ---
 title: "Sturgeon life histories and harmful algal blooms"
-order: 7
+order: 2
 period: "2023–2026"
 status: "Ongoing"
 summary: "Using fin-ray geochemistry and age structure to examine whether Green and White Sturgeon life histories differed in vulnerability to the 2022 San Francisco Estuary harmful algal bloom."

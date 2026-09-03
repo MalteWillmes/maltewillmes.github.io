@@ -1,6 +1,6 @@
 ---
 title: "Salmon establishment in Putah Creek"
-order: 2
+order: 10
 period: "2016–present"
 status: "Ongoing"
 image: /images/research/putah-creek-salmon.jpg

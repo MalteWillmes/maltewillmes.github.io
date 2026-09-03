@@ -1,6 +1,6 @@
 ---
 title: "Norwegian strontium isoscape"
-order: 9
+order: 6
 period: "2024–present"
 status: "Ongoing"
 summary: "Compiling and modelling surface-water strontium isotope data to build a national isoscape for provenance studies in Norway."

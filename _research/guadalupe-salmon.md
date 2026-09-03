@@ -1,6 +1,6 @@
 ---
 title: "Salmon at their range edge"
-order: 1
+order: 7
 period: "2024–present"
 status: "Ongoing"
 image: /images/research/guadalupe-salmon.png

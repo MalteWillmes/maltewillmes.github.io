@@ -1,6 +1,6 @@
 ---
 title: "Pink salmon origins in the North Atlantic"
-order: 6
+order: 5
 period: "2025–2026"
 status: "Ongoing"
 summary: "Using otolith geochemistry and scale analyses to examine the origins, local production, and life histories of pink salmon expanding across the North Atlantic."

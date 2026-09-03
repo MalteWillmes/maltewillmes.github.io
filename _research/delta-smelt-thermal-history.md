@@ -1,6 +1,6 @@
 ---
 title: "Thermal life histories of Delta Smelt"
-order: 2
+order: 11
 period: "2017–2019"
 status: "Delta Science Fellowship"
 image: /images/research/delta_smelt_lifehistory.png

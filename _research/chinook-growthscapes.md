@@ -1,6 +1,6 @@
 ---
 title: "Juvenile Chinook Salmon growthscapes"
-order: 4
+order: 8
 period: "2025–2028"
 status: "Ongoing"
 summary: "Reconstructing juvenile Chinook Salmon growth from otolith biochronologies to compare growth opportunities across Central Valley rearing habitats."
