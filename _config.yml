@@ -111,6 +111,7 @@ timezone: Etc/UTC
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 
 # HTML compression

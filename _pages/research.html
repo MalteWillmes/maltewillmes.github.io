@@ -6,7 +6,6 @@ author_profile: false
 ---
 
 <style>
-
 :root {
   --research-primary: #2c3e50;
   --research-accent: #3172b4;
@@ -16,813 +15,433 @@ author_profile: false
   --research-border: #eaeaea;
 }
 
-
-/* ============================
-   INTRO
-   ============================ */
-
 .research-intro {
   max-width: 780px;
   margin-bottom: 35px;
-
   color: var(--research-text);
-
   line-height: 1.65;
 }
 
-
-/* ============================
-   SECTION HEADINGS
-   ============================ */
-
 .funding-heading,
 .projects-heading {
-  margin: 0 0 8px 0;
+  margin: 0 0 8px;
   padding-bottom: 8px;
-
   border-bottom: 1px solid var(--research-border);
-
   color: var(--research-primary);
-
   font-size: 1.05em;
   font-weight: 700;
   letter-spacing: 0.08em;
-
   text-transform: uppercase;
 }
-
-
-/* ============================
-   ACTIVE FUNDING
-   ============================ */
 
 .funding-section {
   margin-bottom: 50px;
 }
 
-
 .funding-intro {
   max-width: 760px;
-
-  margin: 0 0 17px 0;
-
+  margin: 0 0 17px;
   color: var(--research-muted);
-
   font-size: 0.85em;
   line-height: 1.55;
 }
 
-
 .funding-item {
   display: grid;
-
   grid-template-columns: 115px 1fr;
-
   gap: 22px;
-
   padding: 14px 0;
-
   border-bottom: 1px solid var(--research-border);
 }
-
 
 .funding-item:last-child {
   border-bottom: 0;
 }
 
-
 .funding-period {
   color: var(--research-muted);
-
   font-size: 0.78em;
   font-weight: 600;
-
   line-height: 1.45;
 }
 
-
 .funding-duration {
   display: block;
-
   margin-top: 2px;
-
   font-size: 0.88em;
   font-weight: 400;
 }
 
-
 .funding-title {
   margin-bottom: 3px;
-
   color: var(--research-primary);
-
   font-size: 0.91em;
   font-weight: 700;
-
   line-height: 1.4;
 }
 
-
 .funding-meta {
   color: var(--research-muted);
-
   font-size: 0.77em;
   line-height: 1.45;
 }
-
-
-/* ============================
-   PROJECT LIST
-   ============================ */
 
 .projects-section {
   margin-top: 5px;
 }
 
-
 .projects-heading {
   margin-bottom: 4px;
 }
-
-
-/* ============================
-   PROJECT ACCORDION
-   ============================ */
 
 .research-project {
   border-bottom: 1px solid var(--research-border);
 }
 
-
-.research-project:first-of-type {
-  border-top: 0;
-}
-
-
 .research-project summary {
   cursor: pointer;
-
   list-style: none;
-
-  padding: 18px 0 17px 0;
+  padding: 18px 0 17px;
 }
-
 
 .research-project summary::-webkit-details-marker {
   display: none;
 }
-
 
 .research-project summary:focus-visible {
   outline: 2px solid var(--research-accent);
   outline-offset: 4px;
 }
 
-
-/* ============================
-   COLLAPSED CONTENT
-   ============================ */
-
 .project-summary-row {
   display: grid;
-
   grid-template-columns: 1fr auto;
-
   gap: 20px;
-
   align-items: start;
 }
 
-
 .project-title {
-  margin: 0 0 4px 0;
-
+  margin: 0 0 4px;
   color: var(--research-primary);
-
   font-size: 1.05em;
   font-weight: 700;
-
   line-height: 1.35;
 }
 
-
 .project-meta {
   margin-bottom: 8px;
-
   color: var(--research-muted);
-
   font-size: 0.75em;
 }
 
-
 .project-summary {
   max-width: 780px;
-
   color: var(--research-text);
-
   font-size: 0.88em;
   line-height: 1.55;
 }
 
-
 .project-toggle {
   padding-top: 2px;
-
   color: var(--research-accent);
-
   font-size: 0.76em;
   font-weight: 600;
-
   white-space: nowrap;
 }
-
 
 .project-toggle::after {
   content: " +";
 }
 
-
 .research-project[open] .project-toggle::after {
   content: " −";
 }
 
-
-/* ============================
-   TAGS
-   ============================ */
-
-.project-tags {
+.project-tags,
+.project-links {
   display: flex;
   flex-wrap: wrap;
+}
 
+.project-tags {
   gap: 5px;
-
   margin-top: 10px;
 }
 
-
 .project-tag {
   display: inline-block;
-
   padding: 2px 7px;
-
   border: 1px solid var(--research-border);
   border-radius: 3px;
-
   color: var(--research-muted);
-
   font-size: 0.66em;
   font-weight: 600;
 }
 
-
-/* ============================
-   EXPANDED CONTENT
-   ============================ */
-
 .project-details {
-  padding: 0 0 24px 0;
+  padding-bottom: 24px;
 }
-
 
 .project-details-inner {
   padding-top: 20px;
-
   border-top: 1px solid var(--research-border);
 }
 
-
 .project-detail-image {
   display: block;
-
   width: 100%;
   max-height: 360px;
-
-  margin: 0 0 22px 0;
-
+  margin: 0 0 22px;
   object-fit: cover;
-
   border-radius: 5px;
 }
 
-
 .project-full-text {
   max-width: 820px;
-
   color: var(--research-text);
-
   font-size: 0.9em;
   line-height: 1.65;
 }
-
 
 .project-full-text p:first-child {
   margin-top: 0;
 }
 
-
 .project-full-text p:last-child {
   margin-bottom: 0;
 }
 
-
-/* ============================
-   LINKS
-   ============================ */
-
 .project-links {
-  display: flex;
-  flex-wrap: wrap;
-
   gap: 7px;
-
   margin-top: 18px;
 }
 
-
 .project-link {
   display: inline-block;
-
   padding: 4px 9px;
-
   border: 1px solid #d0e3f7;
   border-radius: 3px;
-
   background: #f0f7ff;
-
   color: var(--research-accent) !important;
-
   font-size: 0.72em;
   font-weight: 600;
-
   text-decoration: none !important;
 }
 
-
 .project-link:hover {
-  background: var(--research-accent);
-
   border-color: var(--research-accent);
-
-  color: #ffffff !important;
+  background: var(--research-accent);
+  color: #fff !important;
 }
 
-
-/* ============================
-   MOBILE
-   ============================ */
-
 @media (max-width: 650px) {
-
   .funding-item {
     grid-template-columns: 1fr;
-
     gap: 3px;
-
-    padding: 14px 0;
   }
-
 
   .funding-duration {
     display: inline;
-
     margin-left: 5px;
   }
 
-
   .project-summary-row {
     grid-template-columns: 1fr;
-
     gap: 8px;
   }
-
 
   .project-toggle {
     padding-top: 0;
   }
 
-
   .project-detail-image {
     max-height: 260px;
   }
-
 }
-
 </style>
 
-
-<!-- ============================
-     INTRO
-     ============================ -->
-
 <div class="research-intro">
-
   <p>
     My research combines ecology, geochemistry, and quantitative
     approaches to understand animal movement, life-history diversity,
     and population connectivity.
   </p>
-
 </div>
 
-
-
-<!-- ============================
-     ACTIVE FUNDING
-     ============================ -->
-
 <section class="funding-section">
-
-  <h2 class="funding-heading">
-    Active funding
-  </h2>
-
+  <h2 class="funding-heading">Active funding</h2>
 
   <p class="funding-intro">
     Current externally funded research projects as Principal Investigator,
     Co-Principal Investigator, or project partner.
   </p>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2026–2029
-
-      <span class="funding-duration">
-        4-year project
-      </span>
-
+      <span class="funding-duration">4-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
         Developing geochemical methods for the non-lethal reconstruction
         of natal origins and anadromy from <i>Oncorhynchus mykiss</i>
         fish scales
       </div>
-
-      <div class="funding-meta">
-        Co-PI · United States Bureau of Reclamation
-      </div>
-
+      <div class="funding-meta">Co-PI · United States Bureau of Reclamation</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2025–2028
-
-      <span class="funding-duration">
-        4-year project
-      </span>
-
+      <span class="funding-duration">4-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
-        Chinook Salmon juvenile growth through Central Valley
-        rearing grounds
+        Chinook Salmon juvenile growth through Central Valley rearing grounds
       </div>
-
-      <div class="funding-meta">
-        Co-PI · State Water Contractors
-      </div>
-
+      <div class="funding-meta">Co-PI · State Water Contractors</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2025–2026
-
-      <span class="funding-duration">
-        2-year project
-      </span>
-
+      <span class="funding-duration">2-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
-        Digitalisering av skjellageret – modernisert
-        Skjellbidegrunnlag
+        Digitalisering av skjellageret – modernisert Skjellbidegrunnlag
       </div>
-
-      <div class="funding-meta">
-        PI · Miljødirektoratet
-      </div>
-
+      <div class="funding-meta">PI · Miljødirektoratet</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2025–2026
-
-      <span class="funding-duration">
-        2-year project
-      </span>
-
+      <span class="funding-duration">2-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
         Establishing the origin of the invasive pink salmon,
         <i>Oncorhynchus gorbuscha</i>, spawning in Icelandic rivers
       </div>
-
-      <div class="funding-meta">
-        Co-PI · Arctic Council, UK
-      </div>
-
+      <div class="funding-meta">Co-PI · Arctic Council, UK</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2025–2026
-
-      <span class="funding-duration">
-        2-year project
-      </span>
-
+      <span class="funding-duration">2-year project</span>
     </div>
-
-
     <div>
-
-      <div class="funding-title">
-        Guadalupe River Salmon project
-      </div>
-
-      <div class="funding-meta">
-        Project partner · South Bay Clean Creeks Coalition
-      </div>
-
+      <div class="funding-title">Guadalupe River Salmon project</div>
+      <div class="funding-meta">Project partner · South Bay Clean Creeks Coalition</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2023–2026
-
-      <span class="funding-duration">
-        4-year project
-      </span>
-
+      <span class="funding-duration">4-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
         Using otolith-based approaches to derive demographic
         parameters for California Central Valley Steelhead
       </div>
-
-      <div class="funding-meta">
-        Co-PI · United States Bureau of Reclamation
-      </div>
-
+      <div class="funding-meta">Co-PI · United States Bureau of Reclamation</div>
     </div>
-
   </div>
 
-
-
   <div class="funding-item">
-
     <div class="funding-period">
-
       2023–2026
-
-      <span class="funding-duration">
-        4-year project
-      </span>
-
+      <span class="funding-duration">4-year project</span>
     </div>
-
-
     <div>
-
       <div class="funding-title">
         Green and White Sturgeon in the San Francisco Estuary:
-        using fin ray geochemistry to reconstruct habitat use
-        and migration throughout the Delta, and to estimate
-        population-level impacts of harmful algal blooms
+        using fin ray geochemistry to reconstruct habitat use and
+        migration throughout the Delta, and to estimate population-level
+        impacts of harmful algal blooms
       </div>
-
       <div class="funding-meta">
         Co-PI · Proposition 1 Watershed Restoration Grant &amp;
         Delta Water Quality and Ecosystem Restoration Grant
       </div>
-
     </div>
-
   </div>
-
 </section>
 
-
-
-<!-- ============================
-     RESEARCH PROJECTS
-     ============================ -->
-
 <section class="projects-section">
-
-  <h2 class="projects-heading">
-    Research projects
-  </h2>
-
+  <h2 class="projects-heading">Research projects</h2>
 
   {% assign research_projects = site.research | sort: "order" %}
 
-
   {% for project in research_projects %}
-
-
   <details class="research-project">
-
-
     <summary>
-
-
       <div class="project-summary-row">
-
-
         <div>
-
-
-          <h3 class="project-title">
-            {{ project.title }}
-          </h3>
-
-
+          <h3 class="project-title">{{ project.title }}</h3>
 
           {% if project.period or project.status %}
-
           <div class="project-meta">
-
-            {% if project.period %}
-              {{ project.period }}
-            {% endif %}
-
-            {% if project.period and project.status %}
-              ·
-            {% endif %}
-
-            {% if project.status %}
-              {{ project.status }}
-            {% endif %}
-
+            {% if project.period %}{{ project.period }}{% endif %}
+            {% if project.period and project.status %} · {% endif %}
+            {% if project.status %}{{ project.status }}{% endif %}
           </div>
-
           {% endif %}
-
-
 
           {% if project.summary %}
-
-          <div class="project-summary">
-            {{ project.summary }}
-          </div>
-
+          <div class="project-summary">{{ project.summary }}</div>
           {% endif %}
-
-
 
           {% if project.tags %}
-
           <div class="project-tags">
-
             {% for tag in project.tags %}
-
-            <span class="project-tag">
-              {{ tag }}
-            </span>
-
+            <span class="project-tag">{{ tag }}</span>
             {% endfor %}
-
           </div>
-
           {% endif %}
-
-
         </div>
 
-
-
-        <div class="project-toggle">
-          Read more
-        </div>
-
-
+        <div class="project-toggle">Read more</div>
       </div>
-
-
     </summary>
 
-
-
     <div class="project-details">
-
-
       <div class="project-details-inner">
-
-
         {% if project.image %}
-
         <img
           src="{{ project.image | relative_url }}"
           class="project-detail-image"
           alt="{{ project.image_alt | default: project.title | escape }}"
         >
-
         {% endif %}
-
-
 
         {% assign project_body = project.content | strip %}
-
-
         {% if project_body != "" %}
-
-        <div class="project-full-text">
-          {{ project.content }}
-        </div>
-
+        <div class="project-full-text">{{ project.content }}</div>
         {% endif %}
 
-
-
         {% if project.links and project.links.size > 0 %}
-
         <div class="project-links">
-
           {% for link in project.links %}
-
           <a
             href="{{ link.url }}"
             class="project-link"
             target="_blank"
             rel="noopener noreferrer"
-          >
-            {{ link.label }}
-          </a>
-
+          >{{ link.label }}</a>
           {% endfor %}
-
         </div>
-
         {% endif %}
-
-
       </div>
-
-
     </div>
-
-
   </details>
-
-
   {% endfor %}
-
-
 </section>

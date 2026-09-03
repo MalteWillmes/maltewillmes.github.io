@@ -13,7 +13,6 @@ author_profile: false
 >
 
 <style>
-
 :root {
   --pres-primary: #2c3e50;
   --pres-accent: #3172b4;
@@ -23,11 +22,6 @@ author_profile: false
   --pres-border: #eaeaea;
 }
 
-
-/* =========================================
-   INTRO
-   ========================================= */
-
 .presentations-intro {
   max-width: 780px;
   margin-bottom: 25px;
@@ -36,15 +30,9 @@ author_profile: false
   line-height: 1.65;
 }
 
-
-/* =========================================
-   MAP
-   ========================================= */
-
 .presentation-map-wrapper {
-  margin: 20px 0 36px 0;
+  margin: 20px 0 36px;
 }
-
 
 #presentation-map {
   width: 100%;
@@ -54,20 +42,9 @@ author_profile: false
   background: #f5f5f5;
 }
 
-
-/*
- * Muted OpenStreetMap styling.
- * This keeps the normal OSM tiles but makes
- * them look closer to a Toner Lite basemap.
- */
-
 #presentation-map .leaflet-tile-pane {
-  filter:
-    grayscale(100%)
-    brightness(1.12)
-    contrast(0.82);
+  filter: grayscale(100%) brightness(1.12) contrast(0.82);
 }
-
 
 .map-caption {
   margin-top: 7px;
@@ -76,20 +53,13 @@ author_profile: false
   line-height: 1.4;
 }
 
-
-/* =========================================
-   LEAFLET
-   ========================================= */
-
 .leaflet-container {
   font-family: inherit;
 }
 
-
 .leaflet-popup-content-wrapper {
   border-radius: 5px;
 }
-
 
 .leaflet-popup-content {
   min-width: 220px;
@@ -99,7 +69,6 @@ author_profile: false
   line-height: 1.4;
 }
 
-
 .map-popup-location {
   margin-bottom: 7px;
   color: var(--pres-primary);
@@ -107,24 +76,20 @@ author_profile: false
   font-weight: 700;
 }
 
-
 .map-popup-count {
   margin-bottom: 7px;
   color: var(--pres-muted);
   font-size: 0.74em;
 }
 
-
 .map-popup-talk {
   padding: 8px 0;
   border-top: 1px solid var(--pres-border);
 }
 
-
-.map-popup-talk:first-of-type {
+.map-popup-count + .map-popup-talk {
   border-top: 0;
 }
-
 
 .map-popup-title {
   color: var(--pres-primary);
@@ -133,14 +98,12 @@ author_profile: false
   line-height: 1.35;
 }
 
-
 .map-popup-meta {
   margin-top: 2px;
   color: var(--pres-muted);
   font-size: 0.74em;
   line-height: 1.4;
 }
-
 
 .map-popup-link {
   display: inline-block;
@@ -151,14 +114,8 @@ author_profile: false
   text-decoration: none !important;
 }
 
-
-/* =========================================
-   YEAR HEADINGS
-   ========================================= */
-
 .presentation-section-title {
-  margin-top: 34px;
-  margin-bottom: 8px;
+  margin: 34px 0 8px;
   padding-bottom: 6px;
   border-bottom: 1px solid var(--pres-border);
   color: var(--pres-primary) !important;
@@ -168,11 +125,6 @@ author_profile: false
   text-transform: uppercase;
 }
 
-
-/* =========================================
-   PRESENTATION LIST
-   ========================================= */
-
 .presentation-entry {
   display: grid;
   grid-template-columns: 90px 1fr;
@@ -181,11 +133,9 @@ author_profile: false
   border-bottom: 1px solid var(--pres-border);
 }
 
-
 .presentation-entry:last-child {
   border-bottom: 0;
 }
-
 
 .presentation-date {
   padding-top: 2px;
@@ -195,20 +145,17 @@ author_profile: false
   white-space: nowrap;
 }
 
-
 .presentation-content {
   min-width: 0;
 }
 
-
 .presentation-title {
-  margin: 0 0 3px 0;
+  margin: 0 0 3px;
   color: var(--pres-primary);
   font-size: 0.94em;
   font-weight: 700;
   line-height: 1.35;
 }
-
 
 .presentation-event {
   color: var(--pres-text);
@@ -216,17 +163,11 @@ author_profile: false
   line-height: 1.45;
 }
 
-
 .presentation-location {
   margin-top: 2px;
   color: var(--pres-muted);
   font-size: 0.78em;
 }
-
-
-/* =========================================
-   TAGS / BUTTONS
-   ========================================= */
 
 .presentation-meta {
   display: flex;
@@ -235,67 +176,50 @@ author_profile: false
   margin-top: 6px;
 }
 
-
-.presentation-type {
+.presentation-type,
+.presentation-link {
   display: inline-block;
   padding: 2px 7px;
-  border: 1px solid var(--pres-border);
   border-radius: 3px;
-  background: var(--pres-bg);
-  color: var(--pres-muted);
   font-size: 0.68em;
   font-weight: 600;
 }
 
+.presentation-type {
+  border: 1px solid var(--pres-border);
+  background: var(--pres-bg);
+  color: var(--pres-muted);
+}
 
 .presentation-link {
-  display: inline-block;
-  padding: 2px 7px;
   border: 1px solid #d0e3f7;
-  border-radius: 3px;
   background: #f0f7ff;
   color: var(--pres-accent) !important;
-  font-size: 0.68em;
-  font-weight: 600;
   text-decoration: none !important;
   transition: all 0.15s ease;
 }
 
-
 .presentation-link:hover {
-  background: var(--pres-accent);
   border-color: var(--pres-accent);
-  color: #ffffff !important;
+  background: var(--pres-accent);
+  color: #fff !important;
 }
-
-
-/* =========================================
-   OPTIONAL MARKDOWN DESCRIPTION
-   ========================================= */
 
 .presentation-description {
   margin-top: 8px;
   color: var(--pres-muted);
-  font-size: 0.80em;
+  font-size: 0.8em;
   line-height: 1.5;
 }
-
 
 .presentation-description p {
   margin: 0;
 }
 
-
-/* =========================================
-   MOBILE
-   ========================================= */
-
 @media (max-width: 650px) {
-
   #presentation-map {
     height: 340px;
   }
-
 
   .presentation-entry {
     grid-template-columns: 1fr;
@@ -303,213 +227,105 @@ author_profile: false
     padding: 14px 0;
   }
 
-
   .presentation-date {
     margin-bottom: 2px;
   }
-
 }
-
 </style>
 
-
 <div class="presentations-intro">
-
   <p>
     Conference presentations, invited seminars, lectures,
     and other research talks. The map shows the locations where
     I have presented my work.
   </p>
-
 </div>
-
 
 {% assign presentations_sorted = site.presentations | sort: "date" | reverse %}
 
-
 {% if presentations_sorted.size > 0 %}
-
-
-<!-- =========================================
-     MAP
-     ========================================= -->
-
 <div class="presentation-map-wrapper">
-
   <div
     id="presentation-map"
     role="region"
     aria-label="Map of presentation locations"
   ></div>
-
   <div class="map-caption">
     Marker size indicates the number of presentations at a location.
     Click a marker to see the presentations given there.
   </div>
-
 </div>
-
-
-
-<!-- =========================================
-     PRESENTATION LIST
-     ========================================= -->
 
 <div class="presentation-list">
-
-{% assign current_year = "" %}
-
-
-{% for talk in presentations_sorted %}
-
-
-  {% assign talk_year = talk.date | date: "%Y" %}
-
-
-  {% if talk_year != current_year %}
-
-    <h2 class="presentation-section-title">
-      {{ talk_year }}
-    </h2>
-
-    {% assign current_year = talk_year %}
-
-  {% endif %}
-
-
-  <article class="presentation-entry">
-
-
-    <div class="presentation-date">
-      {{ talk.date | date: "%b %Y" }}
-    </div>
-
-
-    <div class="presentation-content">
-
-
-      <div class="presentation-title">
-        {{ talk.title | escape }}
-      </div>
-
-
-      {% if talk.event %}
-
-      <div class="presentation-event">
-        {{ talk.event | escape }}
-      </div>
-
-      {% endif %}
-
-
-      {% if talk.location %}
-
-      <div class="presentation-location">
-
-        <i
-          class="fas fa-map-marker-alt"
-          aria-hidden="true"
-        ></i>
-
-        {{ talk.location | escape }}
-
-      </div>
-
-      {% endif %}
-
-
-      <div class="presentation-meta">
-
-
-        {% if talk.type %}
-
-        <span class="presentation-type">
-          {{ talk.type | escape }}
-        </span>
-
-        {% endif %}
-
-
-        {% if talk.link and talk.link != "" %}
-
-        <a
-          href="{{ talk.link | escape }}"
-          class="presentation-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          More information
-        </a>
-
-        {% endif %}
-
-
-      </div>
-
-
-      {% assign talk_body = talk.content | strip %}
-
-      {% if talk_body != "" %}
-
-      <div class="presentation-description">
-        {{ talk.content }}
-      </div>
-
-      {% endif %}
-
-
-    </div>
-
-  </article>
-
-
-{% endfor %}
-
-</div>
-
-
-{% else %}
-
-
-<p>
-  No presentations have been added yet.
-</p>
-
-
-{% endif %}
-
-
-
-<!-- =========================================
-     HIDDEN PRESENTATION DATA FOR MAP
-     ========================================= -->
-
-<div id="presentation-data" style="display: none;">
+  {% assign current_year = "" %}
 
   {% for talk in presentations_sorted %}
+    {% assign talk_year = talk.date | date: "%Y" %}
 
+    {% if talk_year != current_year %}
+    <h2 class="presentation-section-title">{{ talk_year }}</h2>
+    {% assign current_year = talk_year %}
+    {% endif %}
+
+    <article class="presentation-entry">
+      <div class="presentation-date">{{ talk.date | date: "%b %Y" }}</div>
+
+      <div class="presentation-content">
+        <div class="presentation-title">{{ talk.title | escape }}</div>
+
+        {% if talk.event %}
+        <div class="presentation-event">{{ talk.event | escape }}</div>
+        {% endif %}
+
+        {% if talk.location %}
+        <div class="presentation-location">
+          <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+          {{ talk.location | escape }}
+        </div>
+        {% endif %}
+
+        <div class="presentation-meta">
+          {% if talk.type %}
+          <span class="presentation-type">{{ talk.type | escape }}</span>
+          {% endif %}
+
+          {% if talk.link and talk.link != "" %}
+          <a
+            href="{{ talk.link | escape }}"
+            class="presentation-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >More information</a>
+          {% endif %}
+        </div>
+
+        {% assign talk_body = talk.content | strip %}
+        {% if talk_body != "" %}
+        <div class="presentation-description">{{ talk.content }}</div>
+        {% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+{% else %}
+<p>No presentations have been added yet.</p>
+{% endif %}
+
+<div id="presentation-data" hidden>
+  {% for talk in presentations_sorted %}
   <div
     class="presentation-data-item"
     data-title="{{ talk.title | escape }}"
     data-date="{{ talk.date | date: '%Y-%m-%d' }}"
     data-year="{{ talk.date | date: '%Y' }}"
     data-event="{{ talk.event | default: '' | escape }}"
-    data-type="{{ talk.type | default: '' | escape }}"
     data-location="{{ talk.location | default: '' | escape }}"
     data-latitude="{{ talk.latitude }}"
     data-longitude="{{ talk.longitude }}"
     data-link="{{ talk.link | default: '' | escape }}"
   ></div>
-
   {% endfor %}
-
 </div>
-
-
-
-<!-- =========================================
-     LEAFLET
-     ========================================= -->
 
 <script
   src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -517,501 +333,152 @@ author_profile: false
   crossorigin=""
 ></script>
 
-
 <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const mapElement = document.getElementById("presentation-map");
+  if (!mapElement || typeof L === "undefined") return;
 
-document.addEventListener(
-  "DOMContentLoaded",
-  function () {
+  const presentations = Array.from(
+    document.querySelectorAll(".presentation-data-item")
+  ).map(function (element) {
+    return {
+      title: element.dataset.title || "",
+      date: element.dataset.date || "",
+      year: element.dataset.year || "",
+      event: element.dataset.event || "",
+      location: element.dataset.location || "",
+      latitude: element.dataset.latitude || "",
+      longitude: element.dataset.longitude || "",
+      link: element.dataset.link || ""
+    };
+  });
 
+  function escapeHTML(value) {
+    return String(value ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
 
-    const mapElement =
-      document.getElementById(
-        "presentation-map"
-      );
+  const map = L.map("presentation-map", {
+    scrollWheelZoom: false,
+    worldCopyJump: true
+  });
 
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    minZoom: 0,
+    maxZoom: 19,
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'
+  }).addTo(map);
 
-    if (!mapElement) {
-      return;
+  const locationGroups = new Map();
+
+  presentations.forEach(function (talk) {
+    if (
+      !talk.latitude ||
+      !talk.longitude ||
+      talk.latitude === "NA" ||
+      talk.longitude === "NA"
+    ) return;
+
+    const latitude = Number(talk.latitude);
+    const longitude = Number(talk.longitude);
+
+    if (
+      !Number.isFinite(latitude) ||
+      !Number.isFinite(longitude) ||
+      latitude < -90 ||
+      latitude > 90 ||
+      longitude < -180 ||
+      longitude > 180
+    ) return;
+
+    const key = latitude.toFixed(5) + "|" + longitude.toFixed(5);
+
+    if (!locationGroups.has(key)) {
+      locationGroups.set(key, {
+        latitude: latitude,
+        longitude: longitude,
+        location: talk.location,
+        talks: []
+      });
     }
 
+    locationGroups.get(key).talks.push(talk);
+  });
 
+  const markerLocations = [];
 
-    /* ======================================
-       PRESENTATION DATA
-       ====================================== */
+  locationGroups.forEach(function (group) {
+    const count = group.talks.length;
+    const radius = 6 + Math.min(count * 1.5, 8);
 
-    const presentationElements =
-      document.querySelectorAll(
-        ".presentation-data-item"
-      );
-
-
-    const presentations =
-      Array.from(
-        presentationElements
-      ).map(
-        function (element) {
-
-          return {
-
-            title:
-              element.dataset.title || "",
-
-            date:
-              element.dataset.date || "",
-
-            year:
-              element.dataset.year || "",
-
-            event:
-              element.dataset.event || "",
-
-            type:
-              element.dataset.type || "",
-
-            location:
-              element.dataset.location || "",
-
-            latitude:
-              element.dataset.latitude || "",
-
-            longitude:
-              element.dataset.longitude || "",
-
-            link:
-              element.dataset.link || ""
-
-          };
-
-        }
-      );
-
-
-
-    /* ======================================
-       HTML ESCAPING
-       ====================================== */
-
-    function escapeHTML(value) {
-
-      if (
-        value === null ||
-        value === undefined
-      ) {
-        return "";
-      }
-
-
-      return String(value)
-
-        .replace(
-          /&/g,
-          "&amp;"
-        )
-
-        .replace(
-          /</g,
-          "&lt;"
-        )
-
-        .replace(
-          />/g,
-          "&gt;"
-        )
-
-        .replace(
-          /"/g,
-          "&quot;"
-        )
-
-        .replace(
-          /'/g,
-          "&#039;"
-        );
-
-    }
-
-
-
-    /* ======================================
-       INITIALIZE MAP
-       ====================================== */
-
-    const map =
-      L.map(
-        "presentation-map",
-        {
-          scrollWheelZoom: false,
-          worldCopyJump: true
-        }
-      );
-
-
-
-    /* ======================================
-       OPENSTREETMAP BASEMAP
-       ====================================== */
-
-    L.tileLayer(
-      "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    const marker = L.circleMarker(
+      [group.latitude, group.longitude],
       {
-        minZoom: 0,
-        maxZoom: 19,
-
-        attribution:
-          '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'
+        radius: radius,
+        color: "#2c3e50",
+        weight: 1.5,
+        fillColor: "#3172b4",
+        fillOpacity: 0.82
       }
     ).addTo(map);
 
+    markerLocations.push([group.latitude, group.longitude]);
+    group.talks.sort(function (a, b) {
+      return b.date.localeCompare(a.date);
+    });
 
+    let popupHTML =
+      '<div class="map-popup-location">' +
+      escapeHTML(group.location) +
+      '</div>' +
+      '<div class="map-popup-count">' +
+      count +
+      (count === 1 ? " presentation" : " presentations") +
+      "</div>";
 
-    /* ======================================
-       GROUP TALKS AT IDENTICAL LOCATIONS
-       ====================================== */
+    group.talks.forEach(function (talk) {
+      popupHTML +=
+        '<div class="map-popup-talk">' +
+        '<div class="map-popup-title">' +
+        escapeHTML(talk.title) +
+        "</div>" +
+        '<div class="map-popup-meta">' +
+        escapeHTML(talk.year) +
+        (talk.event ? " · " + escapeHTML(talk.event) : "") +
+        "</div>";
 
-    const locationGroups =
-      new Map();
-
-
-
-    presentations.forEach(
-      function (talk) {
-
-
-        const latitude =
-          Number(
-            talk.latitude
-          );
-
-
-        const longitude =
-          Number(
-            talk.longitude
-          );
-
-
-        /*
-         * Skip virtual presentations,
-         * missing coordinates,
-         * and invalid coordinates.
-         */
-
-        if (
-          talk.latitude === "" ||
-          talk.longitude === "" ||
-          talk.latitude === "NA" ||
-          talk.longitude === "NA"
-        ) {
-          return;
-        }
-
-
-        if (
-          !Number.isFinite(latitude) ||
-          !Number.isFinite(longitude)
-        ) {
-          return;
-        }
-
-
-        if (
-          latitude < -90 ||
-          latitude > 90 ||
-          longitude < -180 ||
-          longitude > 180
-        ) {
-          return;
-        }
-
-
-
-        /*
-         * Coordinates are rounded to five
-         * decimal places so repeated talks
-         * at the same location share a marker.
-         */
-
-        const key =
-          latitude.toFixed(5) +
-          "|" +
-          longitude.toFixed(5);
-
-
-
-        if (
-          !locationGroups.has(key)
-        ) {
-
-
-          locationGroups.set(
-            key,
-            {
-              latitude: latitude,
-              longitude: longitude,
-              location: talk.location,
-              talks: []
-            }
-          );
-
-        }
-
-
-
-        locationGroups
-          .get(key)
-          .talks
-          .push(talk);
-
-
+      if (talk.link) {
+        popupHTML +=
+          '<a href="' +
+          escapeHTML(talk.link) +
+          '" target="_blank" rel="noopener noreferrer" class="map-popup-link">' +
+          "More information</a>";
       }
-    );
 
-
-
-    /* ======================================
-       ADD MAP MARKERS
-       ====================================== */
-
-    const markerLocations =
-      [];
-
-
-
-    locationGroups.forEach(
-      function (group) {
-
-
-        const count =
-          group.talks.length;
-
-
-
-        /*
-         * Larger marker for locations with
-         * multiple presentations.
-         */
-
-        const radius =
-          6 +
-          Math.min(
-            count * 1.5,
-            8
-          );
-
-
-
-        const marker =
-          L.circleMarker(
-            [
-              group.latitude,
-              group.longitude
-            ],
-            {
-              radius: radius,
-              color: "#2c3e50",
-              weight: 1.5,
-              fillColor: "#3172b4",
-              fillOpacity: 0.82
-            }
-          )
-          .addTo(map);
-
-
-
-        markerLocations.push(
-          [
-            group.latitude,
-            group.longitude
-          ]
-        );
-
-
-
-        /* ==================================
-           SORT POPUP TALKS NEWEST FIRST
-           ================================== */
-
-        group.talks.sort(
-          function (a, b) {
-
-            return b.date.localeCompare(
-              a.date
-            );
-
-          }
-        );
-
-
-
-        /* ==================================
-           POPUP CONTENT
-           ================================== */
-
-        let popupHTML = `
-
-          <div class="map-popup-location">
-            ${escapeHTML(group.location)}
-          </div>
-
-          <div class="map-popup-count">
-            ${count}
-            ${
-              count === 1
-                ? "presentation"
-                : "presentations"
-            }
-          </div>
-
-        `;
-
-
-
-        group.talks.forEach(
-          function (talk) {
-
-
-            popupHTML += `
-
-              <div class="map-popup-talk">
-
-                <div class="map-popup-title">
-                  ${escapeHTML(talk.title)}
-                </div>
-
-                <div class="map-popup-meta">
-
-                  ${escapeHTML(talk.year)}
-
-                  ${
-                    talk.event
-                      ? " · " +
-                        escapeHTML(
-                          talk.event
-                        )
-                      : ""
-                  }
-
-                </div>
-
-            `;
-
-
-
-            if (talk.link) {
-
-
-              popupHTML += `
-
-                <a
-                  href="${escapeHTML(talk.link)}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="map-popup-link"
-                >
-                  More information
-                </a>
-
-              `;
-
-            }
-
-
-
-            popupHTML += `
-              </div>
-            `;
-
-
-          }
-        );
-
-
-
-        marker.bindPopup(
-          popupHTML,
-          {
-            maxWidth: 340
-          }
-        );
-
-
-
-        marker.bindTooltip(
-          escapeHTML(
-            group.location
-          ),
-          {
-            direction: "top",
-            offset: [0, -5]
-          }
-        );
-
-
-      }
-    );
-
-
-
-    /* ======================================
-       AUTOMATIC MAP EXTENT
-       ====================================== */
-
-
-    if (
-      markerLocations.length === 0
-    ) {
-
-
-      /*
-       * Fallback global view
-       */
-
-      map.setView(
-        [30, 0],
-        2
-      );
-
-
-    }
-
-
-    else if (
-      markerLocations.length === 1
-    ) {
-
-
-      map.setView(
-        markerLocations[0],
-        4
-      );
-
-
-    }
-
-
-    else {
-
-
-      const bounds =
-        L.latLngBounds(
-          markerLocations
-        );
-
-
-      map.fitBounds(
-        bounds,
-        {
-          padding: [30, 30],
-          maxZoom: 5
-        }
-      );
-
-
-    }
-
-
+      popupHTML += "</div>";
+    });
+
+    marker.bindPopup(popupHTML, { maxWidth: 340 });
+    marker.bindTooltip(escapeHTML(group.location), {
+      direction: "top",
+      offset: [0, -5]
+    });
+  });
+
+  if (markerLocations.length === 0) {
+    map.setView([30, 0], 2);
+  } else if (markerLocations.length === 1) {
+    map.setView(markerLocations[0], 4);
+  } else {
+    map.fitBounds(L.latLngBounds(markerLocations), {
+      padding: [30, 30],
+      maxZoom: 5
+    });
   }
-);
-
+});
 </script>
