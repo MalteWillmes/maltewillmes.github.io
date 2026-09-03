@@ -1,25 +1,20 @@
 ---
-title: "Steelhead life histories from otoliths and scales"
+title: "Central Valley Steelhead life histories"
 order: 3
-period: "2023–2029"
+period: "2023–2026"
 status: "Ongoing"
-summary: "Using otolith and non-lethal scale geochemistry to reconstruct natal origin, anadromy, age, and life-history diversity in California Central Valley steelhead."
+summary: "Using otolith-based age and geochemical reconstructions to quantify demographic and migratory diversity in California Central Valley Steelhead."
 
 tags:
   - Steelhead
-  - Fish scales
-  - Otolith geochemistry
-  - Strontium isotopes
+  - Otoliths
   - Life-history diversity
+  - Demography
+  - Central Valley
 
-links:
-  - label: "Non-lethal geochemistry method"
-    url: "https://doi.org/10.1139/cjfas-2016-0103"
-
-  - label: "Sacramento River isoscape"
-    url: "https://doi.org/10.1093/najfmt/vqag027"
+links: []
 ---
 
-California Central Valley steelhead (*Oncorhynchus mykiss*) express a wide range of freshwater and anadromous life histories. Current work uses otoliths to estimate demographic and life-history traits and is extending these reconstructions to scales, which can be collected non-lethally.
+California Central Valley Steelhead (*Oncorhynchus mykiss*) express considerable variation in age, growth, migration timing, and freshwater residence. Quantifying this diversity is important for understanding population structure and how different life histories contribute to the remaining anadromous population.
 
-We are testing how reliably chemical profiles in scales can recover natal origin and anadromy and how these records can complement otolith-based age and life-history information. River <sup>87</sup>Sr/<sup>86</sup>Sr baselines provide the spatial framework for assigning fish to potential natal areas.
+This project uses otolith-based age estimates and geochemical profiles to reconstruct individual life histories from returning adults. By combining information on age, growth, and freshwater-to-marine transitions, we aim to describe the range and frequency of steelhead life-history strategies across the Central Valley and how these vary among populations and years.
