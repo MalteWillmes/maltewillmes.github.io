@@ -17,3 +17,5 @@ _site/
 .Spotlight-V100
 .Trashes
 .Rhistory
+
+node_modules/
