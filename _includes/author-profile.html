@@ -111,15 +111,15 @@
 
   .affil-grid {
     display: grid;
-    grid-template-columns: 1fr;
-    gap: 18px;
-    justify-items: center;
+    grid-template-columns: auto auto;
+    gap: 22px;
+    align-items: center;
+    justify-content: center;
     width: 100%;
   }
 
   .affil-grid a {
     display: block;
-    width: 100%;
     text-align: center;
   }
 
@@ -138,13 +138,13 @@
   }
 
   .nina-logo {
-    width: 140px;
-    max-width: 90%;
+    width: 130px;
+    max-width: 100%;
   }
 
   .ucsc-logo {
-    width: 110px;
-    max-width: 80%;
+    width: 105px;
+    max-width: 100%;
   }
 
   @media (max-width: 1024px) {
@@ -160,11 +160,12 @@
     }
 
     .affil-grid {
-      gap: 15px;
+      grid-template-columns: auto auto;
+      gap: 18px;
     }
 
     .nina-logo {
-      width: 110px;
+      width: 115px;
     }
 
     .ucsc-logo {
