@@ -6,7 +6,8 @@ on:
       - main
 
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "43 5 * * *"
+    - cron: "43 17 * * *"
 
   workflow_dispatch:
 
@@ -20,12 +21,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v6
 
@@ -46,7 +45,6 @@ jobs:
         with:
           path: ./_site
 
-
   deploy:
     environment:
       name: github-pages
@@ -57,7 +55,6 @@ jobs:
     needs: build
 
     steps:
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
