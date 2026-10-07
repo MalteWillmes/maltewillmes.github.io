@@ -4,7 +4,7 @@ date: 2012-08-08
 event: "34th International Geological Congress"
 type: "Poster"
 
-location: "Brisbane, Queensland, Australia"
+location: "Brisbane, Australia"
 latitude: -27.553097
 longitude: 153.052708
 
