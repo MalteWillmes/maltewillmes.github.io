@@ -5,8 +5,8 @@ event: "34th International Geological Congress"
 type: "Poster"
 
 location: "Brisbane, Queensland, Australia"
-latitude: -27.4705
-longitude: 153.0260
+latitude: -27.553097
+longitude: 153.052708
 
 link: "https://apo.ansto.gov.au/server/api/core/bitstreams/e6c5320d-53d8-4cdd-8fcc-337af96e66f4/content"
 ---
